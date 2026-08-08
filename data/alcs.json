@@ -3377,6 +3377,7 @@
       "category": "Special ALC 2025",
       "taluka": "Seloo"
     },
+    
     {
       "code": "24210066",
       "name": "Future Computer Center",
@@ -3390,6 +3391,21 @@
       "areaType": "Urban",
       "category": "MS-CIT Renewal",
       "taluka": "Wardha"
+    },
+
+    {
+      "code": "24210166",
+      "name": "Infotech Computer Education",
+      "areaType": "Rural",
+      "category": "MS-CIT Renewal"
+    
+    },
+     {
+      "code": "24210167",
+      "name": "Eternal Infotechs",
+      "areaType": "Rural",
+      "category": "MS-CIT Renewal"
+    
     },
     {
       "code": "24210040",

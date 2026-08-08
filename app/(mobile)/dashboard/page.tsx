@@ -71,12 +71,13 @@ function ImpactOneLogo() {
 type StatItem = {
   label: string;
   done: number;
-  total: number;
 };
 
-function DonutStat({ label, done, total }: StatItem) {
-  const safeTotal = total > 0 ? total : 1;
-  const pct = Math.min(100, Math.round((done / safeTotal) * 100));
+// Internal target used only to decide how "full" the ring looks — never shown as text.
+const RING_TARGET = 60;
+
+function DonutStat({ label, done }: StatItem) {
+  const pct = Math.min(100, Math.round((done / RING_TARGET) * 100));
 
   const radius = 40;
   const circumference = 2 * Math.PI * radius;
@@ -98,7 +99,7 @@ function DonutStat({ label, done, total }: StatItem) {
           strokeDashoffset={offset}
           transform="rotate(-90 50 50)"
         />
-        <text x="50" y="55" textAnchor="middle" fontSize="17" fontWeight={800} fill="#e63950">
+        <text x="50" y="57" textAnchor="middle" fontSize="24" fontWeight={800} fill="#e63950">
           {done}
         </text>
       </svg>
@@ -151,14 +152,16 @@ function ImageStrip() {
    Dashboard page
 --------------------------------------------------------- */
 type DashboardStats = {
-  studentSession: { done: number; total: number };
-  teacherOrientation: { done: number; total: number };
-  parentMeet: { done: number; total: number };
+  studentSession: { done: number };
+  teacherOrientation: { done: number };
+  parentMeet: { done: number };
 };
 
 export default function DashboardPage() {
   const router = useRouter();
   const [userName, setUserName] = useState("");
+  const [userDistrict, setUserDistrict] = useState("");
+  const [userAlcCode, setUserAlcCode] = useState("");
   const [stats, setStats] = useState<DashboardStats | null>(null);
 
   useEffect(() => {
@@ -166,6 +169,8 @@ export default function DashboardPage() {
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
         if (data?.user?.username) setUserName(data.user.username);
+        if (data?.user?.district) setUserDistrict(data.user.district);
+        if (data?.user?.alcCenterCode) setUserAlcCode(data.user.alcCenterCode);
       })
       .catch(() => {});
 
@@ -179,9 +184,9 @@ export default function DashboardPage() {
 
   const donutItems: StatItem[] = useMemo(
     () => [
-      { label: "Student Session", done: stats?.studentSession.done ?? 0, total: stats?.studentSession.total ?? 0 },
-      { label: "Teacher Orientation", done: stats?.teacherOrientation.done ?? 0, total: stats?.teacherOrientation.total ?? 0 },
-      { label: "Parent Meet", done: stats?.parentMeet.done ?? 0, total: stats?.parentMeet.total ?? 0 },
+      { label: "Student Session", done: stats?.studentSession.done ?? 0 },
+      { label: "Teacher Orientation", done: stats?.teacherOrientation.done ?? 0 },
+      { label: "Parent Meet", done: stats?.parentMeet.done ?? 0 },
     ],
     [stats]
   );
@@ -236,7 +241,14 @@ export default function DashboardPage() {
           Hey! <span className="impact-greeting-name">{userName || "Test"}</span>
         </div>
 
-        <button className="impact-cta" onClick={() => router.push("/checkin/select-alc")}>
+        <button
+          className="impact-cta"
+          onClick={() =>
+            router.push(
+              `/checkin/confirm?district=${encodeURIComponent(userDistrict)}&alc=${encodeURIComponent(userAlcCode)}`
+            )
+          }
+        >
           Let&apos;s Begin
         </button>
 
@@ -290,17 +302,17 @@ export default function DashboardPage() {
         .header-icon-btn:active {
           background: rgba(255, 255, 255, 0.4);
         }
-      .typing-headline {
-  position: relative;
-  z-index: 1;
-  font-size: 15px;
-  font-weight: 700;
-  color: #fff;
-  min-height: 58px;
-  text-align: center;
-  padding: 30px 6px 0;   /* pehle "0 6px" tha, top mein 12px add kiya */
-  line-height: 1.25;
-}
+        .typing-headline {
+          position: relative;
+          z-index: 1;
+          font-size: 15px;
+          font-weight: 700;
+          color: #fff;
+          min-height: 58px;
+          text-align: center;
+          padding: 30px 6px 0;
+          line-height: 1.25;
+        }
         .typing-cursor {
           display: inline-block;
           margin-left: 2px;

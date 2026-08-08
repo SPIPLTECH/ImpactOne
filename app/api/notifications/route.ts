@@ -30,6 +30,7 @@ export async function GET(req: NextRequest) {
       message: i.message,
       createdAt: i.createdAt,
       read: Array.isArray(i.readBy) ? i.readBy.some((u: unknown) => String(u) === session.id) : false,
+      paymentRequestId: i.paymentRequestId ? String(i.paymentRequestId) : null,
     }));
 
     return NextResponse.json({ notifications });

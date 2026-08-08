@@ -63,3 +63,4 @@ public/uploads/
 # Generated files
 *.zip
 *.tar.gz
+.vercel
