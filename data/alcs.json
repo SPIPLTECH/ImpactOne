@@ -535,6 +535,27 @@
       "taluka": "Chandrapur"
     },
     {
+      "code": "34210055",
+      "name": "Global Computer Education",
+     
+      "category": "MS-CIT Renewal"
+    
+    },
+      {
+      "code": "34210319",
+      "name": "RSM Computer",
+     
+      "category": "MS-CIT Renewal"
+    
+    },
+     {
+      "code": "34210320",
+      "name": "Ajay Computer",
+     
+      "category": "MS-CIT Renewal"
+    
+    },
+    {
       "code": "34210050",
       "name": "Galaxy Computer Education",
       "areaType": "Urban",
