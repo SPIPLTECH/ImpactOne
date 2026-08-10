@@ -11,7 +11,7 @@ type AlcCenter = {
   name: string;
   areaType: string;
   category: string;
-  taluka: string;
+  taluka?: string;
 };
 
 type AlcMap = Record<string, AlcCenter[]>;
@@ -60,7 +60,9 @@ export default function SignupPage() {
     if (!alcSearch.trim()) return centersForDistrict;
     const q = alcSearch.toLowerCase();
     return centersForDistrict.filter(
-      (c) => c.name.toLowerCase().includes(q) || c.taluka.toLowerCase().includes(q)
+      (c) =>
+        c.name.toLowerCase().includes(q) ||
+        (c.taluka?.toLowerCase().includes(q) ?? false)
     );
   }, [centersForDistrict, alcSearch]);
 
@@ -105,7 +107,7 @@ export default function SignupPage() {
 
   function selectAlcCenter(c: AlcCenter) {
     setAlcCenter(c.code);
-    setAlcSearch(`(${c.code}) - ${c.name} (${c.taluka})`);
+    setAlcSearch(`(${c.code}) - ${c.name}`);
     setAlcDropdownOpen(false);
   }
 
@@ -282,7 +284,7 @@ export default function SignupPage() {
                       borderBottom: "1px solid #f5f5f5",
                     }}
                   >
-                    ({c.code}) - {c.name} <span style={{ color: "#999" }}>({c.taluka})</span>
+                    ({c.code}) - {c.name} <span style={{ color: "#999" }}></span>
                   </div>
                 ))}
               </div>

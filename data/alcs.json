@@ -1,3831 +1,3566 @@
 {
-  "Bhandara": [
-    {
-      "code": "44210053",
-      "name": "Diya Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhandur"
-    },
-    {
-      "code": "44210083",
-      "name": "WAINGANGA COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210056",
-      "name": "Sunshine Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210033",
-      "name": "Sunrise Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210195",
-      "name": "ASIAN PACIFIC IT EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210179",
-      "name": "Bhure Sigma Computers",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210093",
-      "name": "AiM SOFT COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210150",
-      "name": "PAWAR COMPUTER BHANDARA",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210004",
-      "name": "Real Power Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210070",
-      "name": "Soft Poly Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210190",
-      "name": "OWNVISION INSTITUTE GARRA BAGHEDA",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210073",
-      "name": "Bhure Sigma Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210101",
-      "name": "Sunrise Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sakoli"
-    },
-    {
-      "code": "44210021",
-      "name": "Starlite Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210064",
-      "name": "Astha Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210188",
-      "name": "SIGMA COMPUTERS SIHORA",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210160",
-      "name": "SARVADNYA COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhandur"
-    },
-    {
-      "code": "44210127",
-      "name": "ABC COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210121",
-      "name": "ADVANCE COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhandur"
-    },
-    {
-      "code": "44210066",
-      "name": "DreamTech IT Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sakoli"
-    },
-    {
-      "code": "44210128",
-      "name": "Diya Computers",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhandur"
-    },
-    {
-      "code": "44210146",
-      "name": "Sarvadnya Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210156",
-      "name": "STARLITE COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210020",
-      "name": "Universal Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210002",
-      "name": "Globe Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210023",
-      "name": "Unibyte Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210019",
-      "name": "Akruti Computer Center",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210103",
-      "name": "Friends Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210050",
-      "name": "Appolo Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210094",
-      "name": "UNIQUE COMPUTER CENTER",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210141",
-      "name": "Friends Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210112",
-      "name": "GVP COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhandur"
-    },
-    {
-      "code": "44210041",
-      "name": "Discovery - Nanda Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210065",
-      "name": "Sunlite Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210191",
-      "name": "Skill-IT Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210140",
-      "name": "P.S.TECHNICAL COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210111",
-      "name": "DHANRAJ INFOPOINT",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210187",
-      "name": "Aarya InfoTech Computer Education Sakoli",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Sakoli"
-    },
-    {
-      "code": "44210194",
-      "name": "Vedant Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Lakhandur"
-    },
-    {
-      "code": "44210006",
-      "name": "Tumsar Computer Institute (Tci)",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210164",
-      "name": "Cloud Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210091",
-      "name": "Latest Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sakoli"
-    },
-    {
-      "code": "44210153",
-      "name": "MAULI COMPUTER INSTITTUTE KONDHA",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210139",
-      "name": "SAMEER WORLD COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210027",
-      "name": "Oss Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210132",
-      "name": "REAL SKY TECHNOLOGIES",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210114",
-      "name": "P.S. Technical Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210092",
-      "name": "Aimes Computers, Sihora",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210129",
-      "name": "SIGMA COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210137",
-      "name": "Galaxy Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210158",
-      "name": "SAI COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210193",
-      "name": "NEW ASTHA COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210192",
-      "name": "DAKSH COMPUTER SALEBHATA",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210143",
-      "name": "Krishna Computer Education & Technical Institute Kitadi",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210167",
-      "name": "SAUBHAGYA TECHWORLD",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mohadi"
-    },
-    {
-      "code": "44210154",
-      "name": "Sona Computer Center",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhandur"
-    },
-    {
-      "code": "44210161",
-      "name": "SMILE COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210072",
-      "name": "Gautam Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210098",
-      "name": "Multimedia Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210165",
-      "name": "Shree Sai Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210163",
-      "name": "NEW GENIUS COMPUTERS EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210166",
-      "name": "SHARDA COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sakoli"
-    },
-    {
-      "code": "44210147",
-      "name": "ERA Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210189",
-      "name": "SHREE COMPUTER INSTITUTE KOSARA",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210142",
-      "name": "Krushna Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Lakhandur"
-    },
-    {
-      "code": "44210135",
-      "name": "DreamTech IT Academy",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sakoli"
-    },
-    {
-      "code": "44210152",
-      "name": "VIVEKANANDA TECHNICAL INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sakoli"
-    },
-    {
-      "code": "44210183",
-      "name": "Globe Computer Institute",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Bhandara"
-    },
-    {
-      "code": "44210178",
-      "name": "Sunshine Computer Education",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Lakhani"
-    },
-    {
-      "code": "44210184",
-      "name": "ASTHA COMPUTER",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210131",
-      "name": "REAL SKY TECHNOLOGIES",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tumsar"
-    },
-    {
-      "code": "44210144",
-      "name": "Avira Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sakoli"
-    },
-    {
-      "code": "44210182",
-      "name": "KHADGI COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Pauni"
-    },
-    {
-      "code": "44210180",
-      "name": "REAL POWER COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Tumsar"
-    }
-  ],
-  "Chandrapur": [
-    {
-      "code": "34210029",
-      "name": "Success Computer Education Centre, Mul",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mul"
-    },
-    {
-      "code": "34210018",
-      "name": "Aerolite Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210055",
-      "name": "Global Computer Education",
-     
-      "category": "MS-CIT Renewal"
-    
-    },
-      {
-      "code": "34210319",
-      "name": "RSM Computer",
-     
-      "category": "MS-CIT Renewal"
-    
-    },
-     {
-      "code": "34210320",
-      "name": "Ajay Computer",
-     
-      "category": "MS-CIT Renewal"
-    
-    },
-    {
-      "code": "34210050",
-      "name": "Galaxy Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Brahmapuri"
-    },
-    {
-      "code": "34210142",
-      "name": "ADITYA COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210164",
-      "name": "Mahalaxmi Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210062",
-      "name": "Vyenkatesh Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Rajura"
-    },
-    {
-      "code": "34210095",
-      "name": "Phoenix Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chimur"
-    },
-    {
-      "code": "34210124",
-      "name": "YUWRAJ COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210132",
-      "name": "GLOBALVISION COMPUTER INSTITUTE WARORA",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210015",
-      "name": "Apex Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondpipri"
-    },
-    {
-      "code": "34210006",
-      "name": "Shree Sai Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210152",
-      "name": "Parth Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sindewahi"
-    },
-    {
-      "code": "34210119",
-      "name": "Mariya Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sindewahi"
-    },
-    {
-      "code": "34210004",
-      "name": "Kishor Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhadravati"
-    },
-    {
-      "code": "34210237",
-      "name": "ZIYAAN INFOTECH COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Jiwati"
-    },
-    {
-      "code": "34210093",
-      "name": "Success Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhadravati"
-    },
-    {
-      "code": "34210163",
-      "name": "Shri Bisen Computer Educations",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhadravati"
-    },
-    {
-      "code": "34210128",
-      "name": "ICON COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sindewahi"
-    },
-    {
-      "code": "34210184",
-      "name": "Shree Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondpipri"
-    },
-    {
-      "code": "34210130",
-      "name": "SHREE COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mul"
-    },
-    {
-      "code": "34210246",
-      "name": "Google Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Rajura"
-    },
-    {
-      "code": "34210035",
-      "name": "Dreampoint Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Korpana"
-    },
-    {
-      "code": "34210217",
-      "name": "MOHARSH COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Korpana"
-    },
-    {
-      "code": "34210199",
-      "name": "SHRI SAI COMPUTERS",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210228",
-      "name": "VIKRANT COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sawali"
-    },
-    {
-      "code": "34210200",
-      "name": "JAI JAGANNATH COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chimur"
-    },
-    {
-      "code": "34210179",
-      "name": "ICON COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Brahmapuri"
-    },
-    {
-      "code": "34210226",
-      "name": "Career Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Brahmapuri"
-    },
-    {
-      "code": "34210167",
-      "name": "Tajshree  Computer  Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagbhid"
-    },
-    {
-      "code": "34210043",
-      "name": "Bright Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Rajura"
-    },
-    {
-      "code": "34210129",
-      "name": "TAJSHREE COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagbhid"
-    },
-    {
-      "code": "34210244",
-      "name": "PRITAM INSTITUTE OF TECHNOLOGY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pombhurna"
-    },
-    {
-      "code": "34210202",
-      "name": "TRUESIGN COMPUTER EDUCATION POMBHURNA",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Pombhurna"
-    },
-    {
-      "code": "34210136",
-      "name": "GANRAYA COMPUTERS",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chimur"
-    },
-    {
-      "code": "34210108",
-      "name": "Abhijeet Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210251",
-      "name": "Shree Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondpipri"
-    },
-    {
-      "code": "34210150",
-      "name": "MULTIPOINT COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Korpana"
-    },
-    {
-      "code": "34210249",
-      "name": "Swapnil Computer Saoli",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sawali"
-    },
-    {
-      "code": "34210229",
-      "name": "CAREER COMPUTER EDUCATION KORPANA",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Korpana"
-    },
-    {
-      "code": "34210036",
-      "name": "Hariom Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210114",
-      "name": "Itp Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210311",
-      "name": "A1 Computer Institute, Rajura",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Rajura"
-    },
-    {
-      "code": "34210174",
-      "name": "KAYNAT COMPUTERS",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210197",
-      "name": "DECENT COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210312",
-      "name": "Shreyash Computer Institute,Nandgaon",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Mul"
-    },
-    {
-      "code": "34210109",
-      "name": "Sai Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Korpana"
-    },
-    {
-      "code": "34210220",
-      "name": "Pratham Computer shegaon (Bk)",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210188",
-      "name": "THAKARE COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chimur"
-    },
-    {
-      "code": "34210090",
-      "name": "National Technical Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Brahmapuri"
-    },
-    {
-      "code": "34210151",
-      "name": "BHARTI INFOTECH KORPANA",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Korpana"
-    },
-    {
-      "code": "34210231",
-      "name": "CLASSIC COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chimur"
-    },
-    {
-      "code": "34210232",
-      "name": "Vivek Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210166",
-      "name": "New Modern Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagbhid"
-    },
-    {
-      "code": "34210102",
-      "name": "Tirupati Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210191",
-      "name": "Computer Education Point",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210138",
-      "name": "INSTANT CAREER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Brahmapuri"
-    },
-    {
-      "code": "34210107",
-      "name": "Vijay Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210044",
-      "name": "Yash Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210055",
-      "name": "Global Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210318",
-      "name": "SWARAJYA BHUSHAN MAHAONLINE",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Mul"
-    },
-    {
-      "code": "34210159",
-      "name": "RAJAN COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chimur"
-    },
-    {
-      "code": "34210002",
-      "name": "Rainbow Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210213",
-      "name": "DOT NET COMPUTERS",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mul"
-    },
-    {
-      "code": "34210310",
-      "name": "BHARAT IT COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210027",
-      "name": "Vision Computer Technology",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sindewahi"
-    },
-    {
-      "code": "34210103",
-      "name": "Insight Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210089",
-      "name": "Macrosoft Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210127",
-      "name": "SUCCESS  COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sawali"
-    },
-    {
-      "code": "34210147",
-      "name": "Hi-Tech Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210187",
-      "name": "The Next Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210111",
-      "name": "Yash Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210110",
-      "name": "New Adarsh Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210250",
-      "name": "Genius Computer Institute Madheli",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210190",
-      "name": "SAINATH COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chimur"
-    },
-    {
-      "code": "34210314",
-      "name": "Annapurna computer institute",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Gondpipri"
-    },
-    {
-      "code": "34210054",
-      "name": "Yash Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210315",
-      "name": "SHREE COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210181",
-      "name": "RIGHT COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Rajura"
-    },
-    {
-      "code": "34210243",
-      "name": "SNAP Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210013",
-      "name": "Career Point Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Brahmapuri"
-    },
-    {
-      "code": "34210241",
-      "name": "UNIQUE COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210141",
-      "name": "BAJPEYEE COMPUTER EDUCATION BALLARPUR",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210099",
-      "name": "Itp Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210040",
-      "name": "Anushree Computech Pvt.Ltd",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210143",
-      "name": "LG COMPUTERS SERVICES",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Korpana"
-    },
-    {
-      "code": "34210098",
-      "name": "I T Career",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210214",
-      "name": "INSPIRE COMPUTER INSTITUTE CHAUGAN",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Brahmapuri"
-    },
-    {
-      "code": "34210189",
-      "name": "Hi-Tech Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Brahmapuri"
-    },
-    {
-      "code": "34210245",
-      "name": "Unique Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chandrapur"
-    },
-    {
-      "code": "34210317",
-      "name": "Multipoint",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Gondpipri"
-    },
-    {
-      "code": "34210316",
-      "name": "Vidyarthi Sahayyak Samiti Warora Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Warora"
-    },
-    {
-      "code": "34210007",
-      "name": "Micro Computer Technology And Cyber Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210252",
-      "name": "K.G.N. PUBLIC SCHOOL AND JUNIOR COLLEGE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ballarpur"
-    },
-    {
-      "code": "34210313",
-      "name": "Dr. Babasahed Ambedkar Computer Academy",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Chimur"
-    },
-    {
-      "code": "34210253",
-      "name": "Shahbaj Copmuters",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Jiwati"
-    },
-    {
-      "code": "34210306",
-      "name": "SWAMIRAJ COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Mul"
-    }
-  ],
-  "Gadchiroli": [
-    {
-      "code": "64210151",
-      "name": "Shree Computer Institute",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Gadchiroli"
-    },
-    {
-      "code": "64210026",
-      "name": "Micro-Tech Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Desaiganj (Vadasa)"
-    },
-    {
-      "code": "64210056",
-      "name": "Galaxy Information Technology",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gadchiroli"
-    },
-    {
-      "code": "64210016",
-      "name": "Suyog Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Armori"
-    },
-    {
-      "code": "64210062",
-      "name": "NETKING COMPUTER INSTITUTE, COMPLEX  NAVEGAON",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gadchiroli"
-    },
-    {
-      "code": "64210034",
-      "name": "Shree Computer Institute Pvt. Ltd",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gadchiroli"
-    },
-    {
-      "code": "64210035",
-      "name": "Computer Point",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210102",
-      "name": "SANKALP IT ACADEMY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Desaiganj (Vadasa)"
-    },
-    {
-      "code": "64210086",
-      "name": "AYUSH COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Korchi"
-    },
-    {
-      "code": "64210076",
-      "name": "C-gate Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210064",
-      "name": "SHREE VYANKATESH COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210038",
-      "name": "Sigma Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sironcha"
-    },
-    {
-      "code": "64210031",
-      "name": "Crystal Computer And Technical Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kurkheda"
-    },
-    {
-      "code": "64210002",
-      "name": "Cmh Computer Institute, Armori",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Armori"
-    },
-    {
-      "code": "64210101",
-      "name": "Om Computer Institute Yenapur",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210099",
-      "name": "Bright Computer Institute,Etapalli",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Etapalli"
-    },
-    {
-      "code": "64210113",
-      "name": "Kaushal Computer Nagepalli",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Aheri"
-    },
-    {
-      "code": "64210085",
-      "name": "PRINCE COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Armori"
-    },
-    {
-      "code": "64210096",
-      "name": "MAA BHARTI COMPUTER EDUCATION BHENDALA",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210061",
-      "name": "Shree Gajanan Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Aheri"
-    },
-    {
-      "code": "64210100",
-      "name": "LORSON COMPUTER INSTITUTE GHOT",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210003",
-      "name": "Varun Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Aheri"
-    },
-    {
-      "code": "64210084",
-      "name": "SHREE  COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210075",
-      "name": "Jai Gurudeo Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Aheri"
-    },
-    {
-      "code": "64210094",
-      "name": "AASTHA COMPUTER EDUCATION CENTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kurkheda"
-    },
-    {
-      "code": "64210108",
-      "name": "ADVANCE COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kurkheda"
-    },
-    {
-      "code": "64210018",
-      "name": "Oxford-It Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gadchiroli"
-    },
-    {
-      "code": "64210087",
-      "name": "Atharv Computers",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210036",
-      "name": "Nawale Computer Network Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Dhanora"
-    },
-    {
-      "code": "64210007",
-      "name": "Infosoft Computers,Desaiganj",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Desaiganj (Vadasa)"
-    },
-    {
-      "code": "64210097",
-      "name": "Expert Computer Institute Talodhi Mokasa",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210154",
-      "name": "GRACE COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Armori"
-    },
-    {
-      "code": "64210104",
-      "name": "SHINE COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mulchera"
-    },
-    {
-      "code": "64210118",
-      "name": "SHREE VYANKTESH COMPUTER INSTITUTE GHOT",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210114",
-      "name": "Sahyandry Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210017",
-      "name": "Shree Computer Point",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kurkheda"
-    },
-    {
-      "code": "64210112",
-      "name": "RONAK  COMPUTER",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mulchera"
-    },
-    {
-      "code": "64210066",
-      "name": "Hari Om Computer Dhanora",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Dhanora"
-    },
-    {
-      "code": "64210107",
-      "name": "EKTA BRIGHT COMPUTER ACADEMY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kurkheda"
-    },
-    {
-      "code": "64210027",
-      "name": "Vidya Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Desaiganj (Vadasa)"
-    },
-    {
-      "code": "64210070",
-      "name": "SHREE COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Aheri"
-    },
-    {
-      "code": "64210079",
-      "name": "GURUKUL COMPUTER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Chamorshi"
-    },
-    {
-      "code": "64210083",
-      "name": "GALAXY INFORMATION TECHNOLOGY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Armori"
-    },
-    {
-      "code": "64210153",
-      "name": "Raman Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Armori"
-    },
-    {
-      "code": "64210111",
-      "name": "AK COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mulchera"
-    },
-    {
-      "code": "64210065",
-      "name": "AYUSH COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mulchera"
-    },
-    {
-      "code": "64210150",
-      "name": "Shree Computer Institute",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Gadchiroli"
-    },
-    {
-      "code": "64210152",
-      "name": "MICRO-TECH COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Desaiganj (Vadasa)"
-    }
-  ],
-  "Gondiya": [
-    {
-      "code": "54210055",
-      "name": "Google Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sadak-Arjuni"
-    },
-    {
-      "code": "54210105",
-      "name": "PC-POINT COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Goregaon"
-    },
-    {
-      "code": "54210008",
-      "name": "Aisect Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arjuni Morgaon"
-    },
-    {
-      "code": "54210007",
-      "name": "Nirmal Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Goregaon"
-    },
-    {
-      "code": "54210011",
-      "name": "VENUS CAREER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210049",
-      "name": "Raj Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sadak-Arjuni"
-    },
-    {
-      "code": "54210022",
-      "name": "Igm Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tirora"
-    },
-    {
-      "code": "54210050",
-      "name": "Samsoft Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deori"
-    },
-    {
-      "code": "54210159",
-      "name": "Imperial Technical Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210097",
-      "name": "Surbhi Computer Education Ekodi",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210093",
-      "name": "Micropro Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Salekasa"
-    },
-    {
-      "code": "54210001",
-      "name": "Aditya Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Amgaon"
-    },
-    {
-      "code": "54210098",
-      "name": "INFO-TECH COMPUTER",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arjuni Morgaon"
-    },
-    {
-      "code": "54210182",
-      "name": "INSPIRE COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Amgaon"
-    },
-    {
-      "code": "54210118",
-      "name": "INDIAN TECHNICAL INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tirora"
-    },
-    {
-      "code": "54210136",
-      "name": "MAA RANI COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tirora"
-    },
-    {
-      "code": "54210017",
-      "name": "Gurukul Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Salekasa"
-    },
-    {
-      "code": "54210151",
-      "name": "Krishna Digital Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210087",
-      "name": "Optech Computer Institute of Technology",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deori"
-    },
-    {
-      "code": "54210101",
-      "name": "Param Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210157",
-      "name": "KRUNAL COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arjuni Morgaon"
-    },
-    {
-      "code": "54210125",
-      "name": "Vijayshree Computers",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Amgaon"
-    },
-    {
-      "code": "54210147",
-      "name": "SUCCESS COMPUTER INSTITUTE PARASWADA",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tirora"
-    },
-    {
-      "code": "54210086",
-      "name": "Unique Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Amgaon"
-    },
-    {
-      "code": "54210117",
-      "name": "YASH COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arjuni Morgaon"
-    },
-    {
-      "code": "54210048",
-      "name": "Vikas Infotech Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sadak-Arjuni"
-    },
-    {
-      "code": "54210002",
-      "name": "Igm Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210018",
-      "name": "Gagan Infotech Services",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210122",
-      "name": "IGM COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210165",
-      "name": "YOGESH COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sadak-Arjuni"
-    },
-    {
-      "code": "54210040",
-      "name": "SHREE COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Sadak-Arjuni"
-    },
-    {
-      "code": "54210012",
-      "name": "Aisect Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Goregaon"
-    },
-    {
-      "code": "54210113",
-      "name": "RAJKUWAR COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Salekasa"
-    },
-    {
-      "code": "54210094",
-      "name": "GANESHA COMPUTERS",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Amgaon"
-    },
-    {
-      "code": "54210123",
-      "name": "Om Computers",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210102",
-      "name": "Digital Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arjuni Morgaon"
-    },
-    {
-      "code": "54210085",
-      "name": "GLOBE COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Salekasa"
-    },
-    {
-      "code": "54210099",
-      "name": "JAI AMBE COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arjuni Morgaon"
-    },
-    {
-      "code": "54210166",
-      "name": "UDAAN COMPUTER INSTITUTE DAWANIWADA",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210114",
-      "name": "SHRI BALAJI INFOTECH GONDIA",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210158",
-      "name": "Gyanada Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210181",
-      "name": "INFOSOFT COMPUTER EDUCATION KATI",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210154",
-      "name": "SANDIP COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Amgaon"
-    },
-    {
-      "code": "54210095",
-      "name": "INFOSOFT COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210164",
-      "name": "SANVI COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tirora"
-    },
-    {
-      "code": "54210054",
-      "name": "Bs Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arjuni Morgaon"
-    },
-    {
-      "code": "54210183",
-      "name": "PAHAL COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210110",
-      "name": "Classmate's Infotech & Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deori"
-    },
-    {
-      "code": "54210038",
-      "name": "GALAXY INFOTECH SERVICES",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210180",
-      "name": "BRIGHT STEP COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Salekasa"
-    },
-    {
-      "code": "54210124",
-      "name": "MAA RANI COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tirora"
-    },
-    {
-      "code": "54210148",
-      "name": "SUNWINGS COMPUTER DEORI",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deori"
-    },
-    {
-      "code": "54210096",
-      "name": "SHREE NIDHI EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Tirora"
-    },
-    {
-      "code": "54210149",
-      "name": "HT COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deori"
-    },
-    {
-      "code": "54210160",
-      "name": "Sanskruti Computer Institute Chichgad",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deori"
-    },
-    {
-      "code": "54210112",
-      "name": "SUCCESS COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Gondiya"
-    },
-    {
-      "code": "54210163",
-      "name": "PARMATMA EK COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Goregaon"
-    }
-  ],
   "Nagpur": [
     {
-      "code": "14210009",
-      "name": "Network Computer Education",
+      "code": "14210004",
+      "name": "Computec Computer Institute",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Umred"
-    },
-    {
-      "code": "14210274",
-      "name": "Aryan Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Umred"
-    },
-    {
-      "code": "14210533",
-      "name": "GMK Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kuhi"
-    },
-    {
-      "code": "14210105",
-      "name": "Data -Tech Systems",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210324",
-      "name": "Career Point Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210430",
-      "name": "Global Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kuhi"
-    },
-    {
-      "code": "14210059",
-      "name": "Prahar Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210837",
-      "name": "AKSHAY COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210702",
-      "name": "Narayan Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210795",
-      "name": "SIGMA COMPUTERS",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210403",
-      "name": "AISECT COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mauda"
-    },
-    {
-      "code": "14210234",
-      "name": "Computer Concepts",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Parseoni"
-    },
-    {
-      "code": "14210831",
-      "name": "Adarsh Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210258",
-      "name": "HiTech Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210185",
-      "name": "Optech Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210208",
-      "name": "Vision Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210293",
-      "name": "Oasis Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhiwapur"
+      "category": "ALC"
     },
     {
       "code": "14210006",
       "name": "Ninawe Computer Education",
       "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210311",
-      "name": "Softech Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Parseoni"
-    },
-    {
-      "code": "14210098",
-      "name": "Parmatma Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Parseoni"
-    },
-    {
-      "code": "14210312",
-      "name": "PLANET i.T.",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210335",
-      "name": "Softway Academy  Of Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210834",
-      "name": "SAMRAT COMPUTER CLASSES",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Mauda"
-    },
-    {
-      "code": "14210283",
-      "name": "Bright Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210285",
-      "name": "Yash Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210472",
-      "name": "DHANASHREE COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Umred"
-    },
-    {
-      "code": "14210320",
-      "name": "Bright Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210268",
-      "name": "Newtech Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kuhi"
-    },
-    {
-      "code": "14210254",
-      "name": "Escort Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210091",
-      "name": "Aryaloka Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210818",
-      "name": "PLANET It Services",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210323",
-      "name": "Council of Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210315",
-      "name": "COMPUTER CONSULTANCY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210435",
-      "name": "IT COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210081",
-      "name": "Vision Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210820",
-      "name": "Prahar Computer Academy",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210279",
-      "name": "Compusis Academy",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210567",
-      "name": "IDEAL ACADEMY OF COMPUTERE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210482",
-      "name": "PRONET I T PROFESSIONALS",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210523",
-      "name": "ARYA COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210788",
-      "name": "ALPHA COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210047",
-      "name": "Soft Poly Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210464",
-      "name": "INDIAN COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210012",
-      "name": "Institute Of Advance Computer Technology",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kalameshwar"
-    },
-    {
-      "code": "14210758",
-      "name": "K POINT COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210512",
-      "name": "NATIONAL INSTITUTE OF TECHNICAL EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210724",
-      "name": "SYNC ONLINE POINT",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mauda"
-    },
-    {
-      "code": "14210583",
-      "name": "SAI TECHNICAL COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210756",
-      "name": "United Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Parseoni"
-    },
-    {
-      "code": "14210029",
-      "name": "National Institute Of Technical Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210554",
-      "name": "MASTER COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210259",
-      "name": "RBT Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Umred"
-    },
-    {
-      "code": "14210248",
-      "name": "P. K. Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210410",
-      "name": "NOVEL COMPUTER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210408",
-      "name": "Vidhi Computer Academy",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210674",
-      "name": "RUDRARSH COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mauda"
-    },
-    {
-      "code": "14210524",
-      "name": "S S COMPUTER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210280",
-      "name": "Maxim Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210506",
-      "name": "PRAYAS EDUCATION ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210416",
-      "name": "SONA COMPUTER INSTITUTE OF INFORMATION TECHNOLOGY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210509",
-      "name": "ALFA COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mauda"
-    },
-    {
-      "code": "14210835",
-      "name": "SUPERNOVA COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210028",
-      "name": "S. B. Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210113",
-      "name": "Edutech Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210136",
-      "name": "Abhinav Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kalameshwar"
-    },
-    {
-      "code": "14210437",
-      "name": "SHARP COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210601",
-      "name": "ARYALOKA COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210792",
-      "name": "FORUM COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210538",
-      "name": "ALPHA COMPUTER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210284",
-      "name": "Save Computer Institute Of Information Technology",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210519",
-      "name": "E-GENERATION INSTITUTE OF INFORMATION TECHNOLOGY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210714",
-      "name": "ALLY COMPUTER ACADEMY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210446",
-      "name": "NEW TECH COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210676",
-      "name": "Aim Computer Academy, Narkhed",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210722",
-      "name": "Venus Computer Institute & Skill Development Training Center",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210445",
-      "name": "RPG COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210282",
-      "name": "Kailash Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210278",
-      "name": "Ideal Knowledge Center",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210104",
-      "name": "Manisha Systems",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210121",
-      "name": "E-Generation Institute Of Information Technology",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210465",
-      "name": "NMP.COM THE PROFESSIONAL COMPUTER EDUCATION AND TRAINING INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210073",
-      "name": "Softpoint Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210201",
-      "name": "D`Soft Computer Training Center",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210514",
-      "name": "Microworld Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210039",
-      "name": "Softsense Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210118",
-      "name": "St.Joseph`S Technical Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210681",
-      "name": "PROPER COMPUTER INSTITUTE OF TECHNOLOGIES",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210772",
-      "name": "SHREE MAULI COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210510",
-      "name": "Yash Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210309",
-      "name": "Infosys Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210549",
-      "name": "SWARAJ COMPUTER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210825",
-      "name": "Hi-Tech Computer Education",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210759",
-      "name": "PORWAL TECH TUTORIALS",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210819",
-      "name": "PROPER COMPUTER ACADEMY",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210072",
-      "name": "Igm Computer ( Nari Road)",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210188",
-      "name": "Prerna Institute Of Information Technology",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210434",
-      "name": "DIVYANI COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210267",
-      "name": "Lotus Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210479",
-      "name": "FRIENDS COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kuhi"
-    },
-    {
-      "code": "14210418",
-      "name": "Shivam Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210031",
-      "name": "Megasoft Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210716",
-      "name": "AISECT COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210206",
-      "name": "Shree Gajanan Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210784",
-      "name": "ARYAN COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Umred"
-    },
-    {
-      "code": "14210420",
-      "name": "Multi-Link Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210770",
-      "name": "SHREE TECH COMPUTER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210785",
-      "name": "UDAAN COMPUTERS & SKILL ACADEMY, RAMTEK",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210322",
-      "name": "Shivkrupa Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210144",
-      "name": "Out Look Computers",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210589",
-      "name": "TRIRATNA IT COLLEGE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kalameshwar"
-    },
-    {
-      "code": "14210466",
-      "name": "Mandar Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210413",
-      "name": "Gurupushp Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210826",
-      "name": "MY COMPUTER",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210562",
-      "name": "ABHILASHA COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Bhiwapur"
-    },
-    {
-      "code": "14210429",
-      "name": "Visiontech Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210065",
-      "name": "ICI-T Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210094",
-      "name": "Goldeneye Media",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210576",
-      "name": "SPEED ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210540",
-      "name": "Paradise Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210553",
-      "name": "SAHAYOG COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mauda"
-    },
-    {
-      "code": "14210203",
-      "name": "S. S. Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210406",
-      "name": "SUFA COMPUTER ACADEMY.",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210130",
-      "name": "Orison Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210787",
-      "name": "VAISHALI INSTITUTE OF INFORMATION TECHNOLOGY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210708",
-      "name": "I.T.C.I.COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Umred"
-    },
-    {
-      "code": "14210099",
-      "name": "Inline Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210025",
-      "name": "M  B  Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210270",
-      "name": "Ashtavinayak Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210541",
-      "name": "e-POINT COMPUTER ACADEMY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210086",
-      "name": "Pankaj Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210588",
-      "name": "UJWAL INFOTECH ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kalameshwar"
-    },
-    {
-      "code": "14210483",
-      "name": "DEVANSH COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210363",
-      "name": "Om computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Mauda"
-    },
-    {
-      "code": "14210504",
-      "name": "NATIONAL INSTITUTE OF COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210271",
-      "name": "Dd`S Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210695",
-      "name": "Akshay Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210830",
-      "name": "U.V Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210253",
-      "name": "Turbo Computer Point",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210463",
-      "name": "NIGUT'S COMPUTER CLASSES",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210299",
-      "name": "Global Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210791",
-      "name": "Shubh Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210424",
-      "name": "MEHER COMPUTER",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210172",
-      "name": "Softpoint Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210561",
-      "name": "H.K. COMPUTER POINT",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210668",
-      "name": "Gurukrupa Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210266",
-      "name": "Easy Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210148",
-      "name": "Devendra Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210699",
-      "name": "Career Point Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kalameshwar"
-    },
-    {
-      "code": "14210675",
-      "name": "H P COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210327",
-      "name": "Pronet Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210532",
-      "name": "ARYALOKA COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210147",
-      "name": "Technomedia Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210471",
-      "name": "INDIAN SCHOOL OF COMMERCE & COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210821",
-      "name": "Prahar Computer",
-      "areaType": "Rural",
-      "category": "Special ALC 2025",
-      "taluka": "Nagpur (Urban)"
+      "category": "ALC"
     },
     {
       "code": "14210008",
       "name": "Global Computer Education",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
+      "category": "ALC"
     },
     {
-      "code": "14210671",
-      "name": "KHURSHID COMPUTER INSTITUTE",
+      "code": "14210009",
+      "name": "Network Computer Education",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
+      "category": "ALC"
     },
     {
-      "code": "14210163",
-      "name": "Pentagon Computer Education Center",
+      "code": "14210012",
+      "name": "Institute Of Advance Computer Technology",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210557",
-      "name": "VEDANT COMPUTER INSTITUTE MANSAR",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210360",
-      "name": "S. K. COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210516",
-      "name": "OPPSWORLD MULTIPURPOSE EDUCATION SOCIETY (OMES)",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210771",
-      "name": "Nasa Communications",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210334",
-      "name": "Softech Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210590",
-      "name": "COMPUTER POINT",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210053",
-      "name": "Data-Tech Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210832",
-      "name": "AI-TECH INSTITUTE OF COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Kalameshwar"
-    },
-    {
-      "code": "14210843",
-      "name": "MK Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210275",
-      "name": "Eklavya Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Katol"
-    },
-    {
-      "code": "14210705",
-      "name": "IDEAL ACADEMY OF COMPUTER",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kuhi"
-    },
-    {
-      "code": "14210093",
-      "name": "Global Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210786",
-      "name": "yugant computer institue",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210847",
-      "name": "S S COMPUTER",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210353",
-      "name": "Online Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ramtek"
-    },
-    {
-      "code": "14210106",
-      "name": "Pacific Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
-    },
-    {
-      "code": "14210527",
-      "name": "KK Compusys",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210726",
-      "name": "GuruG Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hingna"
-    },
-    {
-      "code": "14210262",
-      "name": "Vidarbha Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210665",
-      "name": "UNIQUE COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210854",
-      "name": "NETWORK INSTITUTE OF INFORMATION TECHNOLOGY",
-      "areaType": "Urban",
-      "category": "Special ALC 2026",
-      "taluka": "No data"
-    },
-    {
-      "code": "14210760",
-      "name": "SHHREEM COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210173",
-      "name": "Godghate Computer",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210684",
-      "name": "PRAVIN COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Narkhed"
-    },
-    {
-      "code": "14210159",
-      "name": "Royal Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210761",
-      "name": "PAWAN COMPUTER INSTITUTE OF INFORMATION TECHNOLOGY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210845",
-      "name": "CHAUHAN COMPUTER ACADEMY",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210841",
-      "name": "Akash Information Technology Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210790",
-      "name": "ASHOKA COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kalameshwar"
-    },
-    {
-      "code": "14210004",
-      "name": "Computec Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210677",
-      "name": "SARVADNYA COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Rural)"
-    },
-    {
-      "code": "14210777",
-      "name": "KUNAL COMPUTERS INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kamptee"
-    },
-    {
-      "code": "14210833",
-      "name": "R K COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210473",
-      "name": "Digital Cloud Infotech",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210844",
-      "name": "TIMWOOD Online Services",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210776",
-      "name": "SOFTTECH COMPUTER INSTITUTE MOHPA",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Kalameshwar"
-    },
-    {
-      "code": "14210836",
-      "name": "Salame Computer Institue",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Urban)"
-    },
-    {
-      "code": "14210789",
-      "name": "ROYAL COMPUTER'S & TECHNOLOGY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ramtek"
+      "category": "ALC"
     },
     {
       "code": "14210014",
       "name": "Shivalaya Computer Institute",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
+      "category": "ALC"
     },
     {
-      "code": "14210838",
-      "name": "Dhanya Computer",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Rural)"
+      "code": "14210025",
+      "name": "M B Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
     },
     {
-      "code": "14210840",
-      "name": "SHRI SAI SEVA SHIKSHAN MANDAL",
+      "code": "14210028",
+      "name": "S. B. Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210029",
+      "name": "National Institute Of Technical Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210031",
+      "name": "Megasoft Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210039",
+      "name": "Softsense Technoserve (I) Pvt Ltd",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210047",
+      "name": "Soft Polynomials (India) Pvt. Ltd.",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210053",
+      "name": "Data-Tech Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210059",
+      "name": "Prahar Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210065",
+      "name": "ICI-T Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210072",
+      "name": "Igm Computer ( Nari Road)",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210073",
+      "name": "Softpoint Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210081",
+      "name": "Vision Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210086",
+      "name": "Pankaj Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210091",
+      "name": "Aryaloka Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210093",
+      "name": "Global Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210094",
+      "name": "Goldeneye Media",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210098",
+      "name": "Parmatma Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210099",
+      "name": "Inline Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210104",
+      "name": "Manisha Systems",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210105",
+      "name": "Data -Tech Systems",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210106",
+      "name": "Pacific Computer Institute",
       "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Mauda"
+      "category": "ALC"
+    },
+    {
+      "code": "14210113",
+      "name": "Edutech Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210118",
+      "name": "St.Joseph`s Technical Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210121",
+      "name": "E-Generation Institute Of Information Technology",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210130",
+      "name": "Orison Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210136",
+      "name": "Abhinav Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210144",
+      "name": "Out Look Computers",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210147",
+      "name": "Technomedia Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210148",
+      "name": "Devendra Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210159",
+      "name": "Royal Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210163",
+      "name": "Pentagon Computer Education Center",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210172",
+      "name": "Softpoint Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210173",
+      "name": "Computer Technological Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210185",
+      "name": "Optech Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210188",
+      "name": "Prerna Institute Of Information Technology",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210201",
+      "name": "D`Soft Computer Training Center",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210203",
+      "name": "S. S. Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210206",
+      "name": "Shree Gajanan Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210208",
+      "name": "Vision Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210234",
+      "name": "Computer Concepts",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210248",
+      "name": "P. K. Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210253",
+      "name": "Turbo Computer Point",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210254",
+      "name": "Escort Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210258",
+      "name": "HiTech Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210259",
+      "name": "RBT Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210262",
+      "name": "Vidarbha Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210266",
+      "name": "Easy Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210267",
+      "name": "Lotus Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210268",
+      "name": "Newtech Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210270",
+      "name": "Ashtavinayak Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210271",
+      "name": "Dd`S Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210274",
+      "name": "Aryan Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210275",
+      "name": "Eklavya Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210278",
+      "name": "Ideal Knowledge Center",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210279",
+      "name": "Compusis Academy",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210280",
+      "name": "Maxim Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210282",
+      "name": "Kailash Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210283",
+      "name": "Bright Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210284",
+      "name": "Save Computer Institute Of Information Technology",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210285",
+      "name": "Yash Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210293",
+      "name": "Oasis Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210299",
+      "name": "Global Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210309",
+      "name": "Infosys Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210311",
+      "name": "Softech Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210312",
+      "name": "PLANET i.T.",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210315",
+      "name": "COMPUTER CONSULTANCY",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210320",
+      "name": "Bright Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210322",
+      "name": "Shivkrupa Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210323",
+      "name": "Council of Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210324",
+      "name": "Career Point Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210327",
+      "name": "Pronet Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210334",
+      "name": "Softech Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210335",
+      "name": "Softway Academy Of Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210353",
+      "name": "Online Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210360",
+      "name": "S. K. COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210363",
+      "name": "Om computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210403",
+      "name": "AISECT COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210406",
+      "name": "SUFA Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210408",
+      "name": "Vidhi Computer Academy",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210410",
+      "name": "NOVEL COMPUTER ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210413",
+      "name": "Gurupushp Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210416",
+      "name": "SONA COMPUTER INSTITUTE OF INFORMATION TECHNOLOGY",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210418",
+      "name": "Shivam Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210420",
+      "name": "Multi-Link Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210424",
+      "name": "MEHER COMPUTER",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210429",
+      "name": "Visiontech Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210430",
+      "name": "Global Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210434",
+      "name": "DIVYANI COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210435",
+      "name": "IT COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210437",
+      "name": "SHARP COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210445",
+      "name": "RPG COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210446",
+      "name": "NEW TECH COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210463",
+      "name": "NIGUT'S COMPUTER CLASSES",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210464",
+      "name": "INDIAN COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210465",
+      "name": "NMP.COM THE PROFESSIONAL COMPUTER EDUCATION AND TRAINING INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210466",
+      "name": "Mandar Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210471",
+      "name": "INDIAN SCHOOL OF COMMERCE & COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210472",
+      "name": "DHANASHREE COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210473",
+      "name": "DIGITAL CLOUD INFOTECH",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210479",
+      "name": "FRIENDS COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210482",
+      "name": "PRONET I T PROFESSIONALS",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210483",
+      "name": "DEVANSH COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210504",
+      "name": "NATIONAL INSTITUTE OF COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210506",
+      "name": "PRAYAS EDUCATION ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210509",
+      "name": "ALFA COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210510",
+      "name": "Yash Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210512",
+      "name": "NATIONAL INSTITUTE OF TECHNICAL EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210514",
+      "name": "Microworld Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210516",
+      "name": "OPPSWORLD MULTIPURPOSE EDUCATION SOCIETY (OMES)",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210519",
+      "name": "E-GENERATION INSTITUTE OF INFORMATION TECHNOLOGY",
+      "areaType": "Urban",
+      "category": "ALC"
     },
     {
       "code": "14210522",
       "name": "GenNext Computer Institute",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Savner"
+      "category": "ALC"
     },
     {
-      "code": "14210839",
-      "name": "SATISH COMPUTER EDUCATION CHAMPA",
+      "code": "14210523",
+      "name": "ARYA COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210524",
+      "name": "S S COMPUTER ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210527",
+      "name": "KK Compusys",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210532",
+      "name": "ARYALOKA COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210533",
+      "name": "GMK Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210538",
+      "name": "ALPHA COMPUTER ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210540",
+      "name": "Paradise Computer Institute",
       "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Umred"
+      "category": "ALC"
     },
     {
-      "code": "14210842",
-      "name": "Star AI Education",
-      "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Hingna"
+      "code": "14210541",
+      "name": "e-POINT COMPUTER ACADEMY",
+      "areaType": "Rural",
+      "category": "ALC"
     },
     {
-      "code": "14210846",
-      "name": "UTKARSH COMPUTER INSTITUTE",
+      "code": "14210549",
+      "name": "SWARAJ COMPUTER ACADEMY",
       "areaType": "Urban",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Nagpur (Urban)"
+      "category": "ALC"
+    },
+    {
+      "code": "14210553",
+      "name": "SAHAYOG COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210554",
+      "name": "MASTER COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210557",
+      "name": "VEDANT COMPUTER INSTITUTE MANSAR",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210561",
+      "name": "H.K. COMPUTER POINT",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210562",
+      "name": "ABHILASHA COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210567",
+      "name": "IDEAL ACADEMY OF COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210576",
+      "name": "SPEED ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210583",
+      "name": "SAI TECHNICAL COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210588",
+      "name": "UJWAL INFOTECH ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210589",
+      "name": "TRIRATNA IT COLLEGE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210590",
+      "name": "COMPUTER POINT",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210601",
+      "name": "ARYALOKA COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210665",
+      "name": "UNIQUE COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210668",
+      "name": "Gurukrupa Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210671",
+      "name": "KHURSHID COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210674",
+      "name": "RUDRARSH COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210675",
+      "name": "H P COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210676",
+      "name": "Aim Computer Academy, Narkhed",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210677",
+      "name": "SARVADNYA COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210681",
+      "name": "PROPER COMPUTER INSTITUTE OF TECHNOLOGIES",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210684",
+      "name": "HP COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210690",
+      "name": "E-GENERATION DIGITAL SCHOOL",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210695",
+      "name": "Akshay Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210699",
+      "name": "Career Point Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210702",
+      "name": "Narayan Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210705",
+      "name": "IDEAL ACADEMY OF COMPUTER",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210708",
+      "name": "I.T.C.I. COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210712",
+      "name": "Om Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210714",
+      "name": "ALLY COMPUTER ACADEMY",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210716",
+      "name": "AISECT COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210722",
+      "name": "Venus Computer Institute & Skill Development Training Center",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210724",
+      "name": "SYNC ONLINE POINT",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210726",
+      "name": "GuruG Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210748",
+      "name": "SHRI SAI SHIKSHAN SANSTHA",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210756",
+      "name": "United Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210758",
+      "name": "KALARJAN INSTITUTE OF ART AND SKILL",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210759",
+      "name": "PORWAL TECH TUTORIALS",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210760",
+      "name": "SHHREEM COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210761",
+      "name": "PAWAN COMPUTER INSTITUTE OF INFORMATION TECHNOLOGY",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210770",
+      "name": "SHREE TECH COMPUTER ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210771",
+      "name": "Nasa Communications",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210772",
+      "name": "SHREE MAULI COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
     },
     {
       "code": "14210773",
       "name": "HUSNOOR COMPUTER TRAINING INSTITUTE",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Nagpur (Urban)"
+      "category": "ALC"
     },
     {
-      "code": "14210827",
-      "name": "CAREER POINT INSTITUTE OF INFORMATION TECHNOLOGY",
+      "code": "14210776",
+      "name": "SOFTTECH COMPUTER INSTITUTE MOHPA",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210777",
+      "name": "KUNAL COMPUTERS INSTITUTE",
       "areaType": "Rural",
-      "category": "Special ALC 2025",
-      "taluka": "Nagpur (Urban)"
+      "category": "ALC"
+    },
+    {
+      "code": "14210784",
+      "name": "ARYAN COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210785",
+      "name": "UDAAN COMPUTERS & SKILL ACADEMY, RAMTEK",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210786",
+      "name": "yugant computer institue",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210787",
+      "name": "Vaishali Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210788",
+      "name": "Alpha Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210789",
+      "name": "ROYAL COMPUTER'S & TECHNOLOGY",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210790",
+      "name": "ASHOKA COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210791",
+      "name": "Shubh Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210792",
+      "name": "FORUM COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210795",
+      "name": "SIGMA COMPUTERS",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210798",
+      "name": "HIRABAI MEGHE BAHU UDDESHIY SHIKSHAN SANSTHA",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210806",
+      "name": "NAGPUR COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210808",
+      "name": "MASTER COMPUTER Academy",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210809",
+      "name": "Era Computer Center",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210816",
+      "name": "Tejas Enterprises Nand",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210818",
+      "name": "PLANET It Services",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "14210819",
+      "name": "PROPER COMPUTER ACADEMY",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "14210820",
+      "name": "Prahar Computer Academy",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "14210821",
+      "name": "Prahar Computer",
+      "areaType": "Rural",
+      "category": "SALC"
+    },
+    {
+      "code": "14210822",
+      "name": "Shri Kolba Swami Vidyalaya & Junior College Dhapewada",
+      "areaType": "Rural",
+      "category": "KLiC"
     },
     {
       "code": "14210824",
       "name": "Sai Technical Computer Education Academy",
       "areaType": "Rural",
-      "category": "Special ALC 2025",
-      "taluka": "Nagpur (Rural)"
+      "category": "SALC"
+    },
+    {
+      "code": "14210825",
+      "name": "Hi-Tech Computer Education",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "14210826",
+      "name": "My Computer",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "14210827",
+      "name": "CAREER POINT INSTITUTE OF INFORMATION TECHNOLOGY",
+      "areaType": "Rural",
+      "category": "SALC"
+    },
+    {
+      "code": "14210829",
+      "name": "Adhyayan Foundation",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210830",
+      "name": "U.V Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210831",
+      "name": "Adarsh Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210832",
+      "name": "AI-TECH INSTITUTE OF COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210833",
+      "name": "R K COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210834",
+      "name": "SAMRAT COMPUTER CLASSES",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210835",
+      "name": "SUPERNOVA COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210836",
+      "name": "Salame Computer Institue",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210837",
+      "name": "AKSHAY COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210838",
+      "name": "Dhanya Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210839",
+      "name": "SATISH COMPUTER EDUCATION CHAMPA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210840",
+      "name": "SHRI SAI SEVA SHIKSHAN MANDAL",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210841",
+      "name": "Akash Information Technology Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210842",
+      "name": "Star AI Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210843",
+      "name": "MK Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210844",
+      "name": "TIMWOOD Online Services",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210845",
+      "name": "CHAUHAN COMPUTER ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210846",
+      "name": "UTKARSH COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "14210847",
+      "name": "S S COMPUTER",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "14210850",
+      "name": "VISHAL COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210851",
+      "name": "PROMPT COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210852",
+      "name": "VISHWA BHARATI COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210853",
+      "name": "Jasraj Computers",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "14210854",
+      "name": "NETWORK INSTITUTE OF INFORMATION TECHNOLOGY",
+      "areaType": "Urban",
+      "category": "SALC"
     }
   ],
   "Wardha": [
     {
-      "code": "24210149",
-      "name": "Sai Satyam Computer Institute",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Seloo"
-    },
-    
-    {
-      "code": "24210066",
-      "name": "Future Computer Center",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210050",
-      "name": "IT Scan Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-
-    {
-      "code": "24210166",
-      "name": "Infotech Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal"
-    
-    },
-     {
-      "code": "24210167",
-      "name": "Eternal Infotechs",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal"
-    
-    },
-    {
-      "code": "24210040",
-      "name": "Sai Ambrosia Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210057",
-      "name": "Platinum Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
       "code": "24210004",
       "name": "Sai Computer Institute",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
-      "code": "24210150",
-      "name": "Kavita Computer Education",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Deoli"
-    },
-    {
-      "code": "24210136",
-      "name": "NEW CCIT COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deoli"
-    },
-    {
-      "code": "24210054",
-      "name": "Vision Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deoli"
-    },
-    {
-      "code": "24210024",
-      "name": "Ajinkya Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arvi"
-    },
-    {
-      "code": "24210013",
-      "name": "Padmavati Infotech",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
-      "code": "24210045",
-      "name": "Shree Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ashti"
-    },
-    {
-      "code": "24210102",
-      "name": "CREATIVE COMPUTER EDUCATION",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210014",
-      "name": "Softline Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210096",
-      "name": "DREAMS INFO COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Samudrapur"
-    },
-    {
-      "code": "24210111",
-      "name": "ASHISH COMPUTER",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deoli"
-    },
-    {
-      "code": "24210039",
-      "name": "Sai Ambrosia Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Karanja"
-    },
-    {
-      "code": "24210059",
-      "name": "Kshitij Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Karanja"
-    },
-    {
-      "code": "24210068",
-      "name": "Adarsh Computers",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
-      "code": "24210053",
-      "name": "Shreeji Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arvi"
-    },
-    {
-      "code": "24210070",
-      "name": "Unicom Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
-      "code": "24210114",
-      "name": "ZENITH COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Samudrapur"
-    },
-    {
-      "code": "24210044",
-      "name": "Achieve Computer Academy",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arvi"
-    },
-    {
-      "code": "24210108",
-      "name": "Dream's Info Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Seloo"
-    },
-    {
-      "code": "24210097",
-      "name": "MOUNT COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Samudrapur"
-    },
-    {
-      "code": "24210034",
-      "name": "New Asha Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
-      "code": "24210139",
-      "name": "ShivShakti Computer Education",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210081",
-      "name": "Abhinav Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
-      "code": "24210137",
-      "name": "Chanakya Computer Institute",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210159",
-      "name": "ICE COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Karanja"
-    },
-    {
-      "code": "24210126",
-      "name": "New Genius Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210127",
-      "name": "MAX COMPUTER INSTITUTE",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
-      "code": "24210130",
-      "name": "Scholar Computer Academy",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210016",
-      "name": "Insight Computers",
-      "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
+      "category": "ALC"
     },
     {
       "code": "24210007",
       "name": "PC Computer Institute",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arvi"
+      "category": "ALC"
     },
     {
-      "code": "24210113",
-      "name": "UNIX COMPUTER EDUCATION",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Samudrapur"
-    },
-    {
-      "code": "24210135",
-      "name": "MATOSHREE COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arvi"
-    },
-    {
-      "code": "24210036",
-      "name": "Logic Computer Education",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
-    },
-    {
-      "code": "24210019",
-      "name": "Asha Computer Education",
+      "code": "24210013",
+      "name": "Padmavati Infotech Private Limited",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Wardha"
+      "category": "ALC"
     },
     {
-      "code": "24210085",
-      "name": "Lotuss Infotech",
+      "code": "24210014",
+      "name": "Softline Computer Institute",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deoli"
+      "category": "ALC"
     },
     {
-      "code": "24210094",
-      "name": "Youth Computer Instaitute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Samudrapur"
-    },
-    {
-      "code": "24210141",
-      "name": "GLOBAL COMPUTER EDUCATION TALEGAON",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ashti"
-    },
-    {
-      "code": "24210104",
-      "name": "CIPS COMPUTER ACADEMY",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210076",
-      "name": "Shree Super Computer Institute",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Ashti"
-    },
-    {
-      "code": "24210038",
-      "name": "Kavita Computer Education",
+      "code": "24210016",
+      "name": "Insight Computers",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deoli"
-    },
-    {
-      "code": "24210134",
-      "name": "SAMARTH COMPUTER INSTITUTE",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Arvi"
-    },
-    {
-      "code": "24210115",
-      "name": "MUSKAN COMPUTERS",
-      "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deoli"
-    },
-    {
-      "code": "24210160",
-      "name": "DNYANDA HIGH SCHOOL , SATEFAL",
-      "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Hinganghat"
+      "category": "ALC"
     },
     {
       "code": "24210017",
       "name": "N S Computer Point",
       "areaType": "Rural",
-      "category": "MS-CIT Renewal",
-      "taluka": "Deoli"
+      "category": "ALC"
     },
     {
-      "code": "24210129",
-      "name": "Techno-Gate Knowledge Solution",
+      "code": "24210019",
+      "name": "Asha Computer Education",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Hinganghat"
+      "category": "ALC"
     },
     {
-      "code": "24210161",
-      "name": "LUBBENTECH COMPUTER AND SKILL INSTITUTE",
+      "code": "24210024",
+      "name": "Ajinkya Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210034",
+      "name": "New Asha Computer Institute",
       "areaType": "Rural",
-      "category": "MS-CIT NCR 2026",
-      "taluka": "Ashti"
+      "category": "ALC"
     },
     {
-      "code": "24210147",
-      "name": "Padmavati Infotech",
+      "code": "24210036",
+      "name": "Logic Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210038",
+      "name": "Kavita Computer Education",
       "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Wardha"
+      "category": "ALC"
+    },
+    {
+      "code": "24210039",
+      "name": "Sai Ambrosia Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210040",
+      "name": "Sai Ambrosia Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
     },
     {
       "code": "24210043",
       "name": "Sai Satyam Computer Institute",
       "areaType": "Urban",
-      "category": "MS-CIT Renewal",
-      "taluka": "Seloo"
+      "category": "ALC"
     },
     {
-      "code": "24210156",
-      "name": "Ajinkya Computer Institute",
+      "code": "24210044",
+      "name": "Achieve Computer Academy",
       "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Arvi"
+      "category": "ALC"
     },
     {
-      "code": "24210151",
+      "code": "24210045",
+      "name": "Shree Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210050",
       "name": "IT Scan Computer Education",
       "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Wardha"
+      "category": "ALC"
     },
     {
-      "code": "24210155",
-      "name": "Future Computer Education",
+      "code": "24210053",
+      "name": "Shreeji Computers",
       "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Hinganghat"
+      "category": "ALC"
     },
     {
-      "code": "24210153",
-      "name": "Sai Ambrosia Computer Education",
-      "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Hinganghat"
-    },
-    {
-      "code": "24210154",
+      "code": "24210054",
       "name": "Vision Computer Education",
       "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Deoli"
+      "category": "ALC"
     },
     {
-      "code": "24210152",
-      "name": "Sai Computer Institute",
+      "code": "24210057",
+      "name": "Platinum Computer Institute",
       "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Wardha"
+      "category": "ALC"
+    },
+    {
+      "code": "24210059",
+      "name": "Kshitij Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210066",
+      "name": "Future Computer Center",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210068",
+      "name": "Adarsh Computers",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210070",
+      "name": "Unicom Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210076",
+      "name": "Shree Super Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210081",
+      "name": "Abhinav Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210085",
+      "name": "Lotuss Infotech",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210094",
+      "name": "Youth Computer Instaitute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210096",
+      "name": "DREAMS INFO COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210097",
+      "name": "MOUNT COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210102",
+      "name": "CREATIVE COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210104",
+      "name": "CIPS COMPUTER ACADEMY",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210108",
+      "name": "Dream's Info Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210111",
+      "name": "ASHISH COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210113",
+      "name": "UNIX COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210114",
+      "name": "ZENITH COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210115",
+      "name": "MUSKAN COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210126",
+      "name": "New Genius Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210127",
+      "name": "MAX COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210129",
+      "name": "Techno-Gate Knowledge Solution",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210130",
+      "name": "Scholar Computer Academy",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210134",
+      "name": "SAMARTH COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210135",
+      "name": "MATOSHREE COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210136",
+      "name": "NEW CCIT COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210137",
+      "name": "Chanakya Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210139",
+      "name": "ShivShakti Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "24210141",
+      "name": "GLOBAL COMPUTER EDUCATION TALEGAON",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210147",
+      "name": "Padmavati Infotech",
+      "areaType": "Urban",
+      "category": "SALC"
     },
     {
       "code": "24210148",
       "name": "Platinum Computer Institute",
       "areaType": "Urban",
-      "category": "Special ALC 2025",
-      "taluka": "Wardha"
+      "category": "SALC"
+    },
+    {
+      "code": "24210149",
+      "name": "Sai Satyam Computer Institute",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "24210150",
+      "name": "Kavita Computer Education",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "24210151",
+      "name": "IT Scan Computer Education",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "24210152",
+      "name": "Sai Computer Institute",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "24210153",
+      "name": "Sai Ambrosia Computer Education",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "24210154",
+      "name": "Vision Computer Education",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "24210155",
+      "name": "Future Computer Education",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "24210156",
+      "name": "Ajinkya Computer Institute",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "24210157",
+      "name": "Gyan Shiksha Computer Institute",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "24210158",
+      "name": "CREATIVE COMPUTER ACADEMY",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "24210159",
+      "name": "ICE COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210160",
+      "name": "DNYANDA HIGH SCHOOL , SATEFAL",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210161",
+      "name": "LUBBENTECH COMPUTER AND SKILL INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210162",
+      "name": "Bijwar Technical Institute",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "24210164",
+      "name": "INFOTECH COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "24210165",
+      "name": "ETERNAL INFOTECHS",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "24210166",
+      "name": "INFOTECH COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "24210167",
+      "name": "Eternal Infotechs",
+      "areaType": "Rural",
+      "category": "ALC"
+    }
+  ],
+  "Chandrapur": [
+    {
+      "code": "34210002",
+      "name": "Rainbow Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210004",
+      "name": "Kishor Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210006",
+      "name": "Shree Sai Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210007",
+      "name": "Micro Computer Technology And Cyber Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210013",
+      "name": "Career Point Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210015",
+      "name": "Apex Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210018",
+      "name": "Aerolite Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210027",
+      "name": "Vision Computer Technology",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210029",
+      "name": "Success Computer Education Centre, Mul",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210035",
+      "name": "Dreampoint Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210036",
+      "name": "Hariom Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210040",
+      "name": "Anushree Computech Pvt.Ltd",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210043",
+      "name": "Bright Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210044",
+      "name": "Yash Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210050",
+      "name": "Galaxy Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210054",
+      "name": "Yash Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210055",
+      "name": "Global Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210062",
+      "name": "Vyenkatesh Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210081",
+      "name": "Yash Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210089",
+      "name": "Macrosoft Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210090",
+      "name": "National Technical Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210093",
+      "name": "Success Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210095",
+      "name": "Phoenix Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210098",
+      "name": "I T Career",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210099",
+      "name": "Itp Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210102",
+      "name": "Tirupati Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210103",
+      "name": "Insight Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210107",
+      "name": "Vijay Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210108",
+      "name": "Abhijeet Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210109",
+      "name": "Sai Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210110",
+      "name": "New Adarsh Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210111",
+      "name": "Yash Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210114",
+      "name": "Itp Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210119",
+      "name": "Mariya Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210124",
+      "name": "YUWRAJ COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210127",
+      "name": "SUCCESS COMPUTER 'S",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210128",
+      "name": "ICON COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210129",
+      "name": "TAJSHREE COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210130",
+      "name": "SHREE COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210132",
+      "name": "GLOBALVISION COMPUTER INSTITUTE WARORA",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210136",
+      "name": "GANRAYA COMPUTERS",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210138",
+      "name": "INSTANT CAREER ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210141",
+      "name": "BAJPEYEE COMPUTER EDUCATION BALLARPUR",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210142",
+      "name": "ADITYA COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210143",
+      "name": "LG COMPUTERS SERVICES",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210147",
+      "name": "Hi-Tech Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210150",
+      "name": "MULTIPOINT COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210151",
+      "name": "BHARTI INFOTECH KORPANA",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210152",
+      "name": "Parth Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210159",
+      "name": "RAJAN COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210163",
+      "name": "Shri Bisen Computer Educations",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210164",
+      "name": "Mahalaxmi Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210166",
+      "name": "New Modern Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210167",
+      "name": "Tajshree Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210174",
+      "name": "KAYNAT COMPUTERS",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210179",
+      "name": "ICON COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210181",
+      "name": "RIGHT COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210184",
+      "name": "Shree Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210187",
+      "name": "The Next Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210188",
+      "name": "COMPUTER STUDY CIRCLE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210189",
+      "name": "Hi-Tech Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210190",
+      "name": "SAINATH COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210191",
+      "name": "Computer Education Point",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210197",
+      "name": "DECENT COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210199",
+      "name": "SHRI SAI COMPUTERS",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210200",
+      "name": "JAI JAGANNATH COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210202",
+      "name": "TRUESIGN COMPUTER EDUCATION POMBHURNA",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210213",
+      "name": "DOT NET COMPUTERS",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210214",
+      "name": "INSPIRE COMPUTER INSTITUTE CHAUGAN",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210217",
+      "name": "MOHARSH COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210220",
+      "name": "Pratham Computer shegaon (Bk)",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210226",
+      "name": "Career Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210227",
+      "name": "PACIFIC COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210228",
+      "name": "VIKRANT COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210229",
+      "name": "CAREER COMPUTER EDUCATION KORPANA",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210231",
+      "name": "CLASSIC COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210232",
+      "name": "Vivek Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210237",
+      "name": "ZIYAAN INFOTECH COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210241",
+      "name": "UNIQUE COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210243",
+      "name": "SNAP Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210244",
+      "name": "PRITAM INSTITUTE OF TECHNOLOGY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210245",
+      "name": "Unique Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210246",
+      "name": "Gugal Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210247",
+      "name": "NAFEES COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "34210248",
+      "name": "NEVJABAI HITKARINI COLLEGE",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "34210249",
+      "name": "Swapnil Computer Saoli",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210250",
+      "name": "Genius Computer Institute Madheli",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210251",
+      "name": "Shree Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210252",
+      "name": "K.G.N. PUBLIC SCHOOL AND JUNIOR COLLEGE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210253",
+      "name": "Shahbaj Copmuters",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210265",
+      "name": "SHREE LAXMI COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "34210266",
+      "name": "Shreyash Computer Institute",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "34210267",
+      "name": "SNAP Education, Chandrapur",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "34210273",
+      "name": "SHREE COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "34210274",
+      "name": "SNAP Computer Education, Ghodpeth",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "34210297",
+      "name": "THE BEST COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "34210306",
+      "name": "SWAMIRAJ COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "34210310",
+      "name": "BHARAT IT COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210311",
+      "name": "A1 Computer Institute, Rajura",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210312",
+      "name": "Shreyash Computer Institute,Nandgaon",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210313",
+      "name": "Dr. Babasahed Ambedkar Computer Academy",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210314",
+      "name": "Annapurna computer institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210315",
+      "name": "SHREE COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210316",
+      "name": "Vidyarthi Sahayyak Samiti Warora Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210317",
+      "name": "Multipoint",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "34210318",
+      "name": "SWARAJYA BHUSHAN MAHAONLINE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210319",
+      "name": "rsm computer institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210320",
+      "name": "AJAY COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "34210321",
+      "name": "Aerolite-NR Computer",
+      "areaType": "Urban",
+      "category": "SALC"
+    }
+  ],
+  "Bhandara": [
+    {
+      "code": "44210002",
+      "name": "Globe Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210004",
+      "name": "Real Power Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210006",
+      "name": "Tumsar Computer Institute (Tci)",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210019",
+      "name": "Akruti Computer Center",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210020",
+      "name": "Universal Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210021",
+      "name": "Starlite Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210023",
+      "name": "Unibyte Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210027",
+      "name": "Oss Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210033",
+      "name": "Sunrise Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210041",
+      "name": "Discovery - Nanda Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210050",
+      "name": "Appolo Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210053",
+      "name": "Diya Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210056",
+      "name": "Sunshine Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210064",
+      "name": "Astha Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210065",
+      "name": "Sunlite Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210066",
+      "name": "DreamTech IT Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210070",
+      "name": "Soft Polynomials (India) Private Limited",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210072",
+      "name": "Gautam Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210073",
+      "name": "Bhure Sigma Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210083",
+      "name": "WAINGANGA COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210091",
+      "name": "Latest Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210092",
+      "name": "Aimes Computers, Sihora",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210093",
+      "name": "AiM SOFT COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210094",
+      "name": "UNIQUE COMPUTER CENTER",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210098",
+      "name": "Multimedia Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210101",
+      "name": "Sunrise Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210103",
+      "name": "Friends Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210111",
+      "name": "DHANRAJ INFOPOINT",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210112",
+      "name": "GVP COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210114",
+      "name": "P.S. Technical Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210121",
+      "name": "ADVANCE COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210127",
+      "name": "ABC COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210128",
+      "name": "Diya Computers",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210129",
+      "name": "SIGMA COMPUTERS ANDHALGAON",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210131",
+      "name": "REAL SKY TECHNOLOGIES",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210132",
+      "name": "REAL SKY TECHNOLOGIES",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210135",
+      "name": "DreamTech IT Academy",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210137",
+      "name": "Galaxy Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210139",
+      "name": "SAMEER WORLD COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210140",
+      "name": "P.S.TECHNICAL COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210141",
+      "name": "Friends Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210142",
+      "name": "Krushna Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210143",
+      "name": "Krishna Computer Education & Technical Institute Kitadi",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210144",
+      "name": "Avira Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210146",
+      "name": "Sarvadnya Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210147",
+      "name": "ERA Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210150",
+      "name": "PAWAR COMPUTER BHANDARA",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210152",
+      "name": "VIVEKANANDA TECHNICAL INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210153",
+      "name": "MAULI COMPUTER INSTITTUTE KONDHA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210154",
+      "name": "Sona Computer Center",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210156",
+      "name": "STARLITE COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210158",
+      "name": "SAI COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210159",
+      "name": "KALPAK BAHUUDDESHIYA SANSTHA MUNDHARI BK",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "44210160",
+      "name": "SARVADNYA COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210161",
+      "name": "SMILE COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210162",
+      "name": "FUTURETECH COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "44210163",
+      "name": "NEW GENIUS COMPUTERS EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210164",
+      "name": "Cloud Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210165",
+      "name": "Shree Sai Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210166",
+      "name": "SHARDA COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210167",
+      "name": "SAUBHAGYA TECHWORLD",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210168",
+      "name": "Heer Computer Institute",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "44210169",
+      "name": "SIGMA COMPUTERS SIHORA",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "44210170",
+      "name": "Prisum Computer Institute",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "44210171",
+      "name": "UNIQUE COMPUTER COLLEGE OF EDUCATION TECHNOLOGY",
+      "areaType": "Urban",
+      "category": "KLiC"
+    },
+    {
+      "code": "44210178",
+      "name": "Sunshine Computer Education",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "44210179",
+      "name": "Bhure Sigma Computers",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "44210180",
+      "name": "REAL POWER COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "44210181",
+      "name": "Aarya InfoTech Computer Education",
+      "areaType": "Rural",
+      "category": "KLiC"
+    },
+    {
+      "code": "44210182",
+      "name": "KHADGI COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "44210183",
+      "name": "Globe Computer Institute",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "44210184",
+      "name": "ASTHA COMPUTER",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "44210187",
+      "name": "Aarya InfoTech Computer Education Sakoli",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "44210188",
+      "name": "SIGMA COMPUTERS SIHORA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210189",
+      "name": "SHREE COMPUTER INSTITUTE KOSARA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210190",
+      "name": "OWNVISION INSTITUTE GARRA BAGHEDA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210191",
+      "name": "Skill-IT Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210192",
+      "name": "DAKSH COMPUTER SALEBHATA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210193",
+      "name": "NEW ASTHA COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210194",
+      "name": "Vedant Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "44210195",
+      "name": "ASIAN PACIFIC IT EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    }
+  ],
+  "Gondiya": [
+    {
+      "code": "54210001",
+      "name": "Aditya Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210002",
+      "name": "Igm Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210007",
+      "name": "Nirmal Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210008",
+      "name": "Aisect Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210011",
+      "name": "VENUS CAREER ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210012",
+      "name": "Aisect Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210017",
+      "name": "Gurukul Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210018",
+      "name": "Gagan Infotech Services Pvt. Ltd.",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210022",
+      "name": "Igm Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210038",
+      "name": "GALAXY INFOTECH SERVICES",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210040",
+      "name": "SHREE COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210048",
+      "name": "Vikas Infotech Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210049",
+      "name": "Raj Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210050",
+      "name": "Samsoft Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210054",
+      "name": "Bs Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210055",
+      "name": "Google Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210085",
+      "name": "GLOBE COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210086",
+      "name": "Unique Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210087",
+      "name": "Optech Computer",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210093",
+      "name": "Micropro Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210094",
+      "name": "GANESHA COMPUTERS",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210095",
+      "name": "INFOSOFT COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210096",
+      "name": "Royal Computer Institute Mundikota",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210097",
+      "name": "Surbhi Computer Education Ekodi",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210098",
+      "name": "INFO-TECH COMPUTER",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210099",
+      "name": "JAI AMBE COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210101",
+      "name": "Param Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210102",
+      "name": "Digital Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210105",
+      "name": "PC-POINT COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210110",
+      "name": "Classmate's Infotech & Computer",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210112",
+      "name": "SUCCESS COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210113",
+      "name": "RAJKUWAR COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210114",
+      "name": "SHRI BALAJI INFOTECH GONDIA",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210117",
+      "name": "YASH COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210118",
+      "name": "INDIAN TECHNICAL INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210122",
+      "name": "IGM COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210123",
+      "name": "Om Computers",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210124",
+      "name": "MAA RANI COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210125",
+      "name": "Vijayshree Computers",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210136",
+      "name": "MAA RANI COMPUTER EDUCATION",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210147",
+      "name": "SUCCESS COMPUTER INSTITUTE PARASWADA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210148",
+      "name": "SUNWINGS COMPUTER DEORI",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210149",
+      "name": "HT COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210151",
+      "name": "Krishna Digital Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210154",
+      "name": "SANDIP COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210157",
+      "name": "KRUNAL COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210158",
+      "name": "Gyanada Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "54210159",
+      "name": "Imperial Technical Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210160",
+      "name": "Sanskruti Computer Institute Chichgad",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210163",
+      "name": "PARMATMA EK COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210164",
+      "name": "SANVI COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210165",
+      "name": "YOGESH COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210166",
+      "name": "UDAAN COMPUTER INSTITUTE DAWANIWADA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210170",
+      "name": "KALP INFOTECH SERVICES",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "54210171",
+      "name": "Raghav Learning Center",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "54210172",
+      "name": "PC-Point Computers",
+      "areaType": "Rural",
+      "category": "SALC"
+    },
+    {
+      "code": "54210173",
+      "name": "Nirmal Computer Education",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "54210180",
+      "name": "BRIGHT STEP COMPUTER EDUCATION",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210181",
+      "name": "INFOSOFT COMPUTER EDUCATION KATI",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210182",
+      "name": "INSPIRE COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210183",
+      "name": "PAHAL COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210186",
+      "name": "Maa Rani Computer Education",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "54210187",
+      "name": "Unnati Computers",
+      "areaType": "Rural",
+      "category": "ALC"
+    }
+  ],
+  "Gadchiroli": [
+    {
+      "code": "64210002",
+      "name": "Cmh Computer Institute, Armori",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210003",
+      "name": "Varun Computer Academy",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210007",
+      "name": "Infosoft Computers,Desaiganj",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210016",
+      "name": "Suyog Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210017",
+      "name": "Shree Computer Point",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210018",
+      "name": "Oxford-It Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210026",
+      "name": "Micro-Tech Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210027",
+      "name": "Vidya Computer Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210031",
+      "name": "Crystal Computer And Technical Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210034",
+      "name": "Shree Computer Institute Pvt. Ltd",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210035",
+      "name": "Computer Point",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210036",
+      "name": "Nawale Computer Network Institute",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210038",
+      "name": "Sigma Computers",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210056",
+      "name": "Galaxy Information Technology",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210061",
+      "name": "Shree Gajanan Computer Education",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210062",
+      "name": "NETKING COMPUTER INSTITUTE, COMPLEX NAVEGAON",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210064",
+      "name": "SHREE VYANKATESH COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210065",
+      "name": "AYUSH COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210066",
+      "name": "Hari Om Computer Dhanora",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210067",
+      "name": "SHREE SAI COMPUTER INSTITUTE CHAMORSHI",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210070",
+      "name": "SHREE COMPUTERS",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210075",
+      "name": "Jai Gurudeo Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210076",
+      "name": "C-gate Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210079",
+      "name": "GURUKUL COMPUTER ACADEMY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210083",
+      "name": "GALAXY INFORMATION TECHNOLOGY",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210084",
+      "name": "SHREE COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210085",
+      "name": "PRINCE COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210086",
+      "name": "AYUSH COMPUTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210087",
+      "name": "Atharv Computers",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210094",
+      "name": "AASTHA COMPUTER EDUCATION CENTER",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210096",
+      "name": "MAA BHARTI COMPUTER EDUCATION BHENDALA",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210097",
+      "name": "Expert Computer Institute Talodhi Mokasa",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210099",
+      "name": "Bright Computer Institute,Etapalli",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210100",
+      "name": "LORSON COMPUTER INSTITUTE GHOT",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210101",
+      "name": "Om Computer Institute Yenapur",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210102",
+      "name": "SANKALP IT ACADEMY",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210104",
+      "name": "SHINE COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210107",
+      "name": "EKTA BRIGHT COMPUTER ACADEMY",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210108",
+      "name": "ADVANCE COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210111",
+      "name": "AK COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210112",
+      "name": "RONAK COMPUTER",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210113",
+      "name": "Kaushal Computer Nagepalli",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210114",
+      "name": "Sahyandry Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210115",
+      "name": "A K Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210116",
+      "name": "JAY MAULI COMPUTER WORKS AND MULTISERVICES ETAPALLI",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210117",
+      "name": "SANJAY COMPUTER AND TECHNICAL EDUCATION CENTER KORCHI",
+      "areaType": "Urban",
+      "category": "ALC"
+    },
+    {
+      "code": "64210118",
+      "name": "SHREE VYANKTESH COMPUTER INSTITUTE GHOT",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210149",
+      "name": "Shree Computer Institute.",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "64210150",
+      "name": "Shree Computer Institute",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "64210151",
+      "name": "Shree Computer Institute",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "64210152",
+      "name": "MICRO-TECH COMPUTER INSTITUTE",
+      "areaType": "Urban",
+      "category": "SALC"
+    },
+    {
+      "code": "64210153",
+      "name": "Raman Computer Institute",
+      "areaType": "Rural",
+      "category": "ALC"
+    },
+    {
+      "code": "64210154",
+      "name": "GRACE COMPUTER INSTITUTE",
+      "areaType": "Rural",
+      "category": "ALC"
     }
   ]
 }
