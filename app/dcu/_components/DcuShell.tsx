@@ -13,6 +13,8 @@ const NAV_ITEMS: { key: string; label: string; href: string }[] = [
   { key: "payment-details", label: "ALC/Intern Bank Details", href: "/dcu/payment-details" },
   { key: "submit-payment", label: "Submit Payment Receipt", href: "/dcu/submit-payment" },
   { key: "manage-alc", label: "Manage ALC/Intern", href: "/dcu/manage-alc" },
+  { key: "export", label: "Export Submissions", href: "/dcu/export" },
+  { key: "alc-export", label: "Export ALC Registrations", href: "/dcu/alc-export" },
   { key: "queries", label: "Queries / Issues Raised", href: "/dcu/queries" },
   { key: "notifications", label: "Send Notification", href: "/dcu/notifications" },
   { key: "news", label: "Send News", href: "/dcu/news" },
