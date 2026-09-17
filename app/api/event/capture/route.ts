@@ -3,12 +3,30 @@ import { connectDB } from "@/lib/mongodb";
 import EventSubmission from "@/models/EventSubmission";
 import { getSessionFromRequest } from "@/lib/auth";
 
-const VALID_EVENT_TYPES = ["student-session", "parent-meeting", "teacher-orientation"];
+const VALID_EVENT_TYPES = [
+  "student-session",
+  "parent-meeting",
+  "teacher-orientation",
+  "mom",
+  "parikshela-jata-jata",
+  "others",
+];
+
+// NEW: event types that are captured/stored/sent through DCU -> MRCU like
+// everything else, but must NEVER affect the school's Student Session
+// completion count. Their weight is hard-fixed to 0 below.
+const NON_COUNTING_EVENT_TYPES = ["mom", "parikshela-jata-jata", "others"];
 
 // Weight each Student Session standard-selection contributes toward the
-// school's completion requirement of 3. "Combine" alone fulfills all 3 in
+// school's completion requirement (3). "Combine" alone fulfills all 3 in
 // one submission; every other option (single standard or a pair) counts
 // as 1, so three of those submissions are needed to reach the same total.
+//
+// IMPORTANT: these labels must match CLASS_OPTIONS in
+// app/(mobile)/event/capture/page.tsx EXACTLY (character-for-character),
+// otherwise a valid selection on the frontend will fail this backend check
+// and the user will see "Please select which standard(s) this session was
+// for" even though they did select one.
 const CLASS_OPTION_WEIGHTS: Record<string, number> = {
   "8th Std": 1,
   "9th Std": 1,
@@ -17,6 +35,10 @@ const CLASS_OPTION_WEIGHTS: Record<string, number> = {
   "9th & 10th Std": 1,
   "8th & 10th Std": 1,
   "Combine (8th, 9th & 10th)": 3,
+  "11th Std": 1,
+  "12th Std": 1,
+  "Combine (11th & 12th Std)": 3,
+  "Undergraduate Students": 3,
 };
 
 const VALID_CONDUCTED_AT = ["School", "Self Authorized Learning Center (SALC)"];
@@ -51,6 +73,7 @@ export async function POST(req: NextRequest) {
       presentCount: presentCountRaw,
       teacherCount: teacherCountRaw,
       parentCount: parentCountRaw,
+      specifyEvent, // NEW
       district,
       alcCenterCode,
       gps,
@@ -203,6 +226,43 @@ export async function POST(req: NextRequest) {
           message: "Event submitted successfully for both Teacher Orientation and Parent Meeting",
           ids: [teacherSubmission._id, parentSubmission._id],
         },
+        { status: 201 }
+      );
+    }
+
+    // ---- NEW: MOM / Parikshela Jata Jata / Others ----
+    // These are captured, stored, and sent through the DCU -> MRCU review
+    // flow exactly like the other events, BUT weight is hard-fixed to 0
+    // so they can NEVER contribute to a school's Student Session
+    // completion count (that count only ever comes from "student-session").
+    if (NON_COUNTING_EVENT_TYPES.includes(eventType)) {
+      if (!presentCount || presentCount <= 0) {
+        return NextResponse.json({ message: "Missing required fields" }, { status: 400 });
+      }
+
+      // "Others" requires the free-text specify field
+      if (eventType === "others" && (!specifyEvent || !String(specifyEvent).trim())) {
+        return NextResponse.json(
+          { message: "Please specify the event" },
+          { status: 400 }
+        );
+      }
+
+      const submission = await EventSubmission.create({
+        alcUser: session.id,
+        district,
+        alcCenterCode,
+        eventType,
+        instituteName,
+        presentCount,
+        specifyEvent: eventType === "others" ? String(specifyEvent).trim() : undefined,
+        weight: 0, // hard-fixed: never counts toward school completion
+        video: { url: videoUrl, gps: gps || {}, capturedAt: new Date() },
+        status: "pending",
+      });
+
+      return NextResponse.json(
+        { message: "Event submitted successfully", id: submission._id },
         { status: 201 }
       );
     }

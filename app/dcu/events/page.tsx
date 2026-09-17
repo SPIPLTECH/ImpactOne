@@ -95,10 +95,16 @@ export default function EventsPage() {
                 <div style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: 8 }}>
                   <div>
                     <strong>{ev.alcUser?.fullName || ev.alcUser?.username}</strong>{" "}
-                    <span style={{ color: "#888" }}>({ev.instituteName})</span>
+                    <span style={{ color: "#888" }}>({ev.instituteName})</span>{" "}
+                    {ev.submittedVia === "dcu" && (
+                      <span style={{ fontSize: 11, background: "#fdecea", color: "#c0392b", padding: "2px 6px", borderRadius: 4 }}>
+                        Added by DCU
+                      </span>
+                    )}
                     <div style={{ fontSize: 12.5, color: "#888" }}>
                       {ev.eventType}
-                      {ev.classOfStudents ? ` · ${ev.classOfStudents}` : ""} · Present: {ev.presentCount} · {new Date(ev.createdAt).toLocaleString()}
+                      {ev.classOfStudents ? ` · ${ev.classOfStudents}` : ""}
+                      {ev.specifyEvent ? ` (${ev.specifyEvent})` : ""} · Present: {ev.presentCount} · {new Date(ev.createdAt).toLocaleString()}
                     </div>
                     {status === "rejected" && ev.rejectReason && (
                       <div style={{ fontSize: 12.5, color: "#c0392b", marginTop: 4 }}>Reason: {ev.rejectReason}</div>

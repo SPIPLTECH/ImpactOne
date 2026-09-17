@@ -6,6 +6,7 @@ import { useEffect, useState, ReactNode } from "react";
 const NAV_ITEMS: { key: string; label: string; href: string }[] = [
   { key: "dashboard", label: "Home", href: "/dcu/dashboard" },
   { key: "alc-interns-accounts", label: "ALC/Intern Accounts", href: "/dcu/alc-interns-accounts" },
+  { key: "add-missing-data", label: "Add ALC Missing Data", href: "/dcu/add-missing-data" },
   { key: "checkins", label: "Check-in Submissions", href: "/dcu/checkins" },
   { key: "events", label: "Event Submissions", href: "/dcu/events" },
   { key: "schools", label: "School Completion", href: "/dcu/schools" },
@@ -97,36 +98,42 @@ export default function DcuShell({
           <div style={{ color: "#999", fontSize: 12, marginBottom: 20 }}>{district}</div>
         )}
 
-        {NAV_ITEMS.map((item) => (
-          <a
-            key={item.key}
-            className={`admin-nav-item ${activeKey === item.key || pathname === item.href ? "active" : ""}`}
-            onClick={() => router.push(item.href)}
-            title={collapsed ? item.label : undefined}
-            style={{
-              whiteSpace: "nowrap",
-              overflow: "hidden",
-              textOverflow: collapsed ? "clip" : "ellipsis",
-            }}
-          >
-            {collapsed ? item.label.charAt(0) : item.label}
-          </a>
-        ))}
+        {NAV_ITEMS.map(function renderNavItem(item) {
+          const isActive = activeKey === item.key || pathname === item.href;
+          return (
+            <div
+              key={item.key}
+              className={"admin-nav-item" + (isActive ? " active" : "")}
+              onClick={function handleNavClick() {
+                router.push(item.href);
+              }}
+              title={collapsed ? item.label : undefined}
+              style={{
+                whiteSpace: "nowrap",
+                overflow: "hidden",
+                textOverflow: collapsed ? "clip" : "ellipsis",
+                cursor: "pointer",
+              }}
+            >
+              {collapsed ? item.label.charAt(0) : item.label}
+            </div>
+          );
+        })}
 
-        <a
+        <div
           className="admin-nav-item"
           onClick={handleLogout}
           title={collapsed ? "Logout" : undefined}
-          style={{ whiteSpace: "nowrap" }}
+          style={{ whiteSpace: "nowrap", cursor: "pointer" }}
         >
           {collapsed ? "L" : "Logout"}
-        </a>
+        </div>
       </aside>
 
       <main className="admin-main">
         <div className="admin-topbar">
           <h1>
-            {title} {district ? `— ${district}` : ""}
+            {title} {district ? "— " + district : ""}
           </h1>
         </div>
         {children}

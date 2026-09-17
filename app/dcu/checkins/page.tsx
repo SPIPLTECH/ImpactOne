@@ -85,6 +85,7 @@ export default function CheckinsPage() {
               <tr>
                 <th>ALC</th>
                 <th>Institute</th>
+                <th>Source</th>
                 <th>Photo</th>
                 <th>GPS</th>
                 <th>Time</th>
@@ -97,6 +98,15 @@ export default function CheckinsPage() {
                 <tr key={s._id}>
                   <td>{s.alcUser?.fullName || s.alcUser?.username}</td>
                   <td>{s.instituteName}</td>
+                  <td>
+                    {s.submittedVia === "dcu" ? (
+                      <span style={{ fontSize: 11, background: "#fdecea", color: "#c0392b", padding: "2px 6px", borderRadius: 4 }}>
+                        Added by DCU
+                      </span>
+                    ) : (
+                      <span style={{ fontSize: 11, color: "#888" }}>ALC App</span>
+                    )}
+                  </td>
                   <td><a href={s.photoUrl} target="_blank" rel="noreferrer">View</a></td>
                   <td>{s.gps?.lat?.toFixed(4)}, {s.gps?.lng?.toFixed(4)}</td>
                   <td>{new Date(s.createdAt).toLocaleString()}</td>

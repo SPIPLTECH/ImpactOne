@@ -2383,6 +2383,120 @@
       "category": "ALC"
     },
     {
+  "code": "44210156",
+  "name": "STARLITE COMPUTER EDUCATION",
+  "areaType": "Rural",
+  "category": "ALC"
+   },
+   {
+  "code": "44210158",
+  "name": "SAI COMPUTER INSTITUTE",
+  "areaType": "Rural",
+  "category": "ALC"
+   },
+   {
+  "code": "44210160",
+  "name": "SARVADNYA COMPUTER EDUCATION",
+  "areaType": "Urban",
+  "category": "ALC"
+   },
+   {
+  "code": "44210161",
+  "name": "SMILE COMPUTER EDUCATION",
+  "areaType": "Urban",
+  "category": "ALC"
+  },
+  {
+  "code": "44210162",
+  "name": "FUTURETECH COMPUTER EDUCATION",
+  "areaType": "Rural",
+  "category": "KLiC"
+   },
+  {
+  "code": "44210163",
+  "name": "NEW GENIUS COMPUTERS EDUCATION",
+  "areaType": "Rural",
+  "category": "ALC"
+   },
+  {
+  "code": "44210164",
+  "name": "Cloud Computer Institute",
+  "areaType": "Rural",
+  "category": "ALC"
+ },
+ {
+  "code": "44210165",
+  "name": "Shree Sai Computer Education",
+  "areaType": "Rural",
+  "category": "ALC"
+ },
+ {
+  "code": "44210166",
+  "name": "SHARDA COMPUTER INSTITUTE",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210167",
+  "name": "SAUBHAGYA TECHWORLD",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210187",
+  "name": "Aarya InfoTech Computer Education Sakoli",
+  "areaType": "Urban",
+  "category": "ALC"
+},
+{
+  "code": "44210188",
+  "name": "SIGMA COMPUTERS SIHORA",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210189",
+  "name": "SHREE COMPUTER INSTITUTE KOSARA",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210190",
+  "name": "OWNVISION INSTITUTE GARRA BAGHEDA",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210191",
+  "name": "Skill-IT Computer",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210192",
+  "name": "DAKSH COMPUTER SALEBHATA",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210193",
+  "name": "NEW ASTHA COMPUTERS",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210194",
+  "name": "Vedant Computer Education",
+  "areaType": "Rural",
+  "category": "ALC"
+},
+{
+  "code": "44210195",
+  "name": "ASIAN PACIFIC IT EDUCATION",
+  "areaType": "Urban",
+  "category": "ALC"
+},
+    {
       "code": "44210004",
       "name": "Real Power Computer Institute",
       "areaType": "Urban",

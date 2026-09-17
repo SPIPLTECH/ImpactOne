@@ -7,16 +7,25 @@ import { reverseGeocode } from "@/lib/watermark";
 import { uploadToCloudinaryDirect } from "@/lib/cloudinaryClient";
 import BottomNav from "@/components/BottomNav";
 
-const EVENT_META: Record<string, { title: string; countLabel: string }> = {
+const EVENT_META: Record<string, { title: string; countLabel: string; }> = {
   "student-session": { title: "Student Session", countLabel: "How many students were present?" },
   "parent-meeting": { title: "Parent Meeting", countLabel: "How many parents were present?" },
   "teacher-orientation": { title: "Teacher Orientation", countLabel: "How many teachers were present?" },
+  "mom": { title: "MKCL Olympiad Movement", countLabel: "How many students were present?" },
+  "parikshela-jata-jata": { title: "Parikshela Jata Jata", countLabel: "How many students were present?" },
+  "others": { title: "Others", countLabel: "How many students were present?" },
 };
 
 // Each option's "weight" toward completing a school's Student Session
 // requirement (3 total). Combine alone satisfies it in one submission;
 // every other option (single or pair) counts as 1, so 3 submissions of
 // those are needed to reach the same requirement.
+//
+// IMPORTANT: these labels must match CLASS_OPTION_WEIGHTS in
+// app/api/event/capture/route.ts EXACTLY (character-for-character),
+// otherwise a valid selection here will fail backend validation and the
+// user will see "Please select which standard(s) this session was for"
+// even after selecting one.
 const CLASS_OPTIONS = [
   { label: "8th Std", weight: 1 },
   { label: "9th Std", weight: 1 },
@@ -25,9 +34,13 @@ const CLASS_OPTIONS = [
   { label: "9th & 10th Std", weight: 1 },
   { label: "8th & 10th Std", weight: 1 },
   { label: "Combine (8th, 9th & 10th)", weight: 3 },
+  { label: "11th Std", weight: 1 },
+  { label: "12th Std", weight: 1 },
+  { label: "Combine (11th & 12th Std)", weight: 3 },
+  { label: "Undergraduate Students", weight: 3 },
 ];
 
-const CONDUCTED_AT_OPTIONS = ["School", "Self Authorized Learning Center (SALC)"];
+const CONDUCTED_AT_OPTIONS = ["School", "Authorized Learning Center (ALC)"];
 
 // What was actually conducted during a Teacher Orientation / Parent
 // Meeting visit. Picking the "+" option credits BOTH events for that
@@ -42,9 +55,12 @@ function CaptureContent() {
   const searchParams = useSearchParams();
   const eventId = searchParams.get("event") || "";
   const prefillSchool = searchParams.get("instituteName") || "";
+  // NEW: carried over from the Select Event page when "Others" was chosen
+  const specifyEventParam = searchParams.get("specifyEvent") || "";
   const meta = EVENT_META[eventId] || { title: "Event", countLabel: "How many were present?" };
   const isStudentSession = eventId === "student-session";
   const isTeacherOrParent = eventId === "teacher-orientation" || eventId === "parent-meeting";
+  const isOtherEvent = eventId === "others";
 
   const [district, setDistrict] = useState("");
   const [alcCenterCode, setAlcCenterCode] = useState("");
@@ -108,6 +124,11 @@ function CaptureContent() {
       setError("Please select what was conducted");
       return;
     }
+    // NEW: "Others" must have arrived here with a specify value from the select page
+    if (isOtherEvent && !specifyEventParam.trim()) {
+      setError("Please go back and specify the event");
+      return;
+    }
     if (isCombinedSession) {
       if (!teacherCount || Number(teacherCount) <= 0) {
         setError("Please enter how many teachers were present");
@@ -143,6 +164,8 @@ function CaptureContent() {
           presentCount: isCombinedSession ? undefined : presentCount,
           teacherCount: isCombinedSession ? teacherCount : undefined,
           parentCount: isCombinedSession ? parentCount : undefined,
+          // NEW: carried from Select Event page's inline "Please Specify" field
+          specifyEvent: isOtherEvent ? specifyEventParam.trim() : undefined,
           district,
           alcCenterCode,
           gps,
@@ -175,6 +198,11 @@ function CaptureContent() {
 
         <div className="screen-body">
           {error && <div className="error-text">{error}</div>}
+
+          {/* NEW: show the specified event name as read-only context for "Others" */}
+          {isOtherEvent && specifyEventParam && (
+            <div className="detail-label">Event: {specifyEventParam}</div>
+          )}
 
           <div className="form-area">
             <div className="detail-label">Which School/Institute is this event for?</div>
