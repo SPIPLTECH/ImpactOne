@@ -2,13 +2,14 @@
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
+import AlcManager from "@/components/admin/AlcManager";
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type AnyRow = any;
 
 export default function AdminDashboardPage() {
   const router = useRouter();
-  const [tab, setTab] = useState<"overview" | "users">("overview");
+  const [tab, setTab] = useState<"overview" | "users" | "alc">("overview");
   const [checkins, setCheckins] = useState<AnyRow[]>([]);
   const [events, setEvents] = useState<AnyRow[]>([]);
   const [users, setUsers] = useState<AnyRow[]>([]);
@@ -45,7 +46,9 @@ export default function AdminDashboardPage() {
   }
 
   useEffect(() => {
-    if (tab === "overview") {
+    if (tab === "alc") {
+      setLoading(false);
+    } else if (tab === "overview") {
       loadOverview();
     } else {
       loadUsers();
@@ -117,6 +120,9 @@ export default function AdminDashboardPage() {
         <a className={`admin-nav-item ${tab === "overview" ? "active" : ""}`} onClick={() => setTab("overview")}>
           Approved Submissions
         </a>
+        <a className={`admin-nav-item ${tab === "alc" ? "active" : ""}`} onClick={() => setTab("alc")}>
+          ALC Details &amp; Events
+        </a>
         <a className={`admin-nav-item ${tab === "users" ? "active" : ""}`} onClick={() => setTab("users")}>
           Manage Users
         </a>
@@ -130,7 +136,9 @@ export default function AdminDashboardPage() {
           <h1>Super Admin Dashboard</h1>
         </div>
 
-        {loading && <div className="empty-note">Loading...</div>}
+        {loading && tab !== "alc" && <div className="empty-note">Loading...</div>}
+
+        {tab === "alc" && <AlcManager />}
 
         {!loading && tab === "overview" && (
           <>
