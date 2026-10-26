@@ -9,6 +9,9 @@ type Stats = {
   studentSessionsCompleted: number;
   teacherOrientationsCompleted: number;
   parentMeetingsCompleted: number;
+  momEvents: number;
+  parikshelaEvents: number;
+  otherEvents: number;
   totalSubmissions: number;
   approvedSubmissions: number;
   pendingSubmissions: number;
@@ -49,6 +52,9 @@ export default function DcuDashboardHome() {
     studentSessionsCompleted: 0,
     teacherOrientationsCompleted: 0,
     parentMeetingsCompleted: 0,
+    momEvents: 0,
+    parikshelaEvents: 0,
+    otherEvents: 0,
     totalSubmissions: 0,
     approvedSubmissions: 0,
     pendingSubmissions: 0,
@@ -60,6 +66,12 @@ export default function DcuDashboardHome() {
     { value: s.studentSessionsCompleted, label: "Total Student Sessions Completed" },
     { value: s.teacherOrientationsCompleted, label: "Total Teacher Orientations Completed" },
     { value: s.parentMeetingsCompleted, label: "Total Parents Meetings Completed" },
+  ];
+  const rowEvents = [
+    { value: s.momEvents, label: "MOM Events" },
+    { value: s.parikshelaEvents, label: "Parikshela Jata Jata Events" },
+    { value: s.otherEvents, label: "Other Events" },
+    { value: s.momEvents + s.parikshelaEvents + s.otherEvents, label: "Total Other Events" },
   ];
   const row2 = [
     { value: s.totalSubmissions, label: "Total Submissions" },
@@ -84,6 +96,14 @@ export default function DcuDashboardHome() {
         <>
           <div className="admin-stat-grid" style={{ marginBottom: 18 }}>
             {row1.map((c) => (
+              <div className="admin-stat-card" key={c.label}>
+                <div className="value">{c.value}</div>
+                <div className="label">{c.label}</div>
+              </div>
+            ))}
+          </div>
+          <div className="admin-stat-grid" style={{ marginBottom: 18 }}>
+            {rowEvents.map((c) => (
               <div className="admin-stat-card" key={c.label}>
                 <div className="value">{c.value}</div>
                 <div className="label">{c.label}</div>

@@ -17,10 +17,13 @@ export async function GET(req: NextRequest) {
     .sort((a, b) => b.completed - a.completed);
 
   if (req.nextUrl.searchParams.get("summary")) {
-    const [studentSessionsCompleted, teacherOrientationsCompleted, parentMeetingsCompleted] = await Promise.all([
+    const [studentSessionsCompleted, teacherOrientationsCompleted, parentMeetingsCompleted, momEvents, parikshelaEvents, otherEvents] = await Promise.all([
       EventSubmission.countDocuments({ district: dcu.district, status: "approved", eventType: "student-session" }),
       EventSubmission.countDocuments({ district: dcu.district, status: "approved", eventType: "teacher-orientation" }),
       EventSubmission.countDocuments({ district: dcu.district, status: "approved", eventType: "parent-meeting" }),
+      EventSubmission.countDocuments({ district: dcu.district, status: "approved", eventType: "mom" }),
+      EventSubmission.countDocuments({ district: dcu.district, status: "approved", eventType: "parikshela-jata-jata" }),
+      EventSubmission.countDocuments({ district: dcu.district, status: "approved", eventType: "others" }),
     ]);
 
     const [totalSubmissions, approvedSubmissions, pendingSubmissions, rejectedSubmissions] = await Promise.all([
@@ -37,6 +40,9 @@ export async function GET(req: NextRequest) {
         studentSessionsCompleted,
         teacherOrientationsCompleted,
         parentMeetingsCompleted,
+        momEvents,
+        parikshelaEvents,
+        otherEvents,
         totalSubmissions,
         approvedSubmissions,
         pendingSubmissions,
